@@ -1,0 +1,224 @@
+class Node
+		x, y, price, nPath
+		
+		Node(int x, int y)
+			this.x = x
+			this.y = y
+			this.price = 0
+			this.nPath = 0
+
+class AirplaneProblem
+
+	Node[][] mat
+	cheapestPrice, numOfPaths
+	
+	AirplaneProblem(Node[][] mat)
+		this.mat = mat
+		this.cheapestPrice = 0
+		this.numOfPaths = 0
+		buildMatrix()
+	
+	O(M*N)
+	void buildMatrix()
+		m = mat.length, n = mat[0].length
+		
+		for(i = 1 to m)
+			mat[i][0].price = mat[i-1][0].price + mat[i-1][0].y
+			mat[i][0].nPath = 1
+		for(j = 1 to n)
+			mat[0][j].price = mat[0][j-1].price + mat[0][j-1].x
+			mat[0][j].nPath = 1
+		
+		for(i = 1 to m)
+			for(j = 1 to n)
+				a = mat[i-1][j].price + mat[i-1][j].y
+				b = mat[i][j-1].price + mat[i][j-1].x
+				
+				if(a < b)
+					mat[i][j].price = a
+					mat[i][j].nPath = mat[i-1][j].nPath
+				else if(a > b) 
+					mat[i][j].price = b
+					mat[i][j].nPath = mat[i][j-1].nPath
+				else
+					mat[i][j].price = a
+					mat[i][j].nPath = mat[i-1][j].nPath + mat[i][j-1].nPath
+		
+		cheapestPrice = mat[m-1][n-1].price
+		numOfPaths = mat[m-1][n-1].nPath	
+
+	O(M+N)
+	String onePathIterative(Node mat[][])
+		ans = ""
+		i = mat.length - 1 
+		j = mat[0].length - 1
+		
+		while(i > 0 && j > 0)
+			a = mat[i-1][j].price + mat[i-1][j].y
+			b = mat[i][j-1].price + mat[i][j-1].x
+			
+			if(a < b) 
+				ans = "1" + ans
+				i--
+			else 
+				ans = "0" + ans 
+				j--
+		
+		while(i > 0)
+			ans = "1" + ans
+			i--
+		while(j > 0)
+			ans = "0" + ans
+			j--
+		
+		return ans 
+
+	String onePathRecursive()
+		return onePathRecursive(mat.length-1, mat[0].length-1)
+	
+	String onePathRecursive(i, j)
+		if(i == 0 && j == 0) return ""
+		else if(i > 0 && j == 0) return onePathRecursive(i-1,j) + "1"
+		else if(i == 0 && j > 0) return onePathRecursive(i, j-1) + "0"
+		else
+			if(mat[i][j].price == mat[i-1][j].price + mat[i-1][j].y) return onePathRecursive(i-1,j) + "1"
+			else return onePathRecursive(i, j-1) + "0"
+		
+	ArrayList<String> buildPaths(int teta)
+		if(teta <= nPath)
+			ArrayList<String> paths = new ArrayList<String>
+			buildPaths("", mat.length-1, mat[0].length-1, paths)
+			return paths
+	
+	void buildPaths(String path, int i, int j, ArrayList<String> paths)
+		if(i == 0 && j == 0)
+			paths.add(path)
+		else if(i > 0 && j == 0)
+			buildPaths("1" + path, i-1, j, paths)
+		else if(i == 0 && j > 0)
+			buildPaths("0" + path, i, j-1, paths)
+		else 
+			a = mat[i-1][j].price + mat[i-1][j].y
+			b = mat[i][j-1].price + mat[i][j-1].x
+			if(a < b) buildPaths("1" + path, i-1, j, paths)
+			else if(a > b) buildPaths("0" + path, i-1, j, paths)
+			else
+				buildPaths("1" + path, i-1, j, paths)
+				buildPaths("0" + new String(path), i, j-1, paths)
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	String onePathRecursive(i, j)
+		if(i == 0 && j == 0) return ""
+		if(i > 0 && j == 0) return onePathRecursive(i-1, j) + "1"
+		if(i == 0 && j > 1) return onePathRecursive(i, j-1) + "0"
+		if(mat[i][j].price == mat[i-1][j].price + mat[i-1][j].y) return onePathRecursive(i-1,j) + "1"
+		else return onePathRecursive(i, j-1) + "0"
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				
+				
+				
+				
+				
+				
+				
+			
+			
+			
+	

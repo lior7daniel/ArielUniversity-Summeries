@@ -1,0 +1,28 @@
+int[][] buildMatrix(String X, String Y)
+	rows = x.length(), cols = Y.length()
+	mat[][] = new int[rows+1][cols+1]
+	
+	for(i = 1 to rows)
+		for(j = 1 to cols)
+			if(X.charAt(i-1) == Y.charAt(j-1))
+				mat[i][j] = mat[i-1][j-1] + 1
+			else
+				mat[i][j] = MAX(mat[i-1][j], mat[i][j-1])
+	return mat
+	
+String LCS(String X, String Y)
+	String result = ""
+	mat[][] = buildMatrix(X,Y)
+	rows = mat.length(), cols = mat[0].length()
+	count = mat[rows-1][cols-1]
+	
+	i = rows-1, j = cols-1
+	while(count > 0)
+		if(X.charAt(i-1) == Y.charAt(j-1))
+			result = X.charAt(i-1) + result
+			i--
+			j--
+		else if(mat[i][j] == mat[i][j-1]) j--
+		else i--
+	return result
+		
