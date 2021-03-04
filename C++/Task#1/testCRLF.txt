@@ -1,0 +1,83 @@
+a
+POEM
+I have eaten
+the strawberries
+and the peaches
+the icebox
+
+you were
+.
+p
+you were
+n
+7	you were
+?POEM
+POEM
+n
+1	POEM
+/the
+the strawberries
+/
+and the peaches
+/
+the icebox
+7
+you were
+2
+I have eaten
+4
+and the peaches
+a
+that were in
+.
+n
+5	that were in
+8
+you were
+i
+and which
+.
+9
+you were
+n
+9	you were
+c
+you were probably
+.
+4
+and the peaches
+d
+8
+you were probably
+n
+8	you were probably
+a
+saving
+for breakfast
+
+Forgive me
+they were delicious
+so sweet
+and so cold
+.
+/strawberries
+the strawberries
+s/strawberries/plums/
+%p
+POEM
+I have eaten
+the plums
+that were in
+the icebox
+
+and which
+you were probably
+saving
+for breakfast
+
+Forgive me
+they were delicious
+so sweet
+and so cold
+Q
+
