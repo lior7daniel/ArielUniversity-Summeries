@@ -35,6 +35,7 @@
 
 * `Neural Network Course`
     * **סיכום שלי לנושאים מהקורס**
+    * **Task#1**
 
 * `Operation Systems Course`
     * **סיכום שלי לנושאים מהקורס**
