@@ -1,0 +1,23 @@
+Triangle Point 122.0 145.0 0 Point 133.0 146.0 0 Point 123.0 63.0 0 1 true
+Triangle Point 122.0 144.0 0 Point 129.0 143.0 0 Point 166.0 71.0 0 1 true
+Triangle Point 122.0 144.0 0 Point 131.0 145.0 0 Point 191.0 91.0 0 1 true
+Triangle Point 132.0 143.0 0 Point 124.0 143.0 0 Point 85.0 79.0 0 1 true
+Triangle Point 132.0 143.0 0 Point 123.0 143.0 0 Point 65.0 101.0 0 1 true
+Triangle Point 125.0 142.0 0 Point 99.0 172.0 0 Point 145.0 174.0 0 0 true
+Triangle Point 120.0 169.0 0 Point 98.0 220.0 0 Point 138.0 222.0 0 2 true
+Triangle Point 107.0 218.0 0 Point 98.0 217.0 0 Point 82.0 274.0 0 0 true
+Triangle Point 86.0 262.0 0 Point 83.0 271.0 0 Point 66.0 258.0 0 0 true
+Triangle Point 125.0 218.0 0 Point 135.0 217.0 0 Point 144.0 271.0 0 0 true
+Triangle Point 145.0 271.0 0 Point 141.0 258.0 0 Point 152.0 257.0 0 0 true
+Triangle Point 135.0 171.0 0 Point 142.0 171.0 0 Point 176.0 202.0 0 3 true
+Triangle Point 169.0 194.0 0 Point 173.0 199.0 0 Point 184.0 174.0 0 3 true
+Triangle Point 101.0 167.0 0 Point 106.0 163.0 0 Point 50.0 144.0 0 3 true
+Triangle Point 54.0 146.0 0 Point 65.0 148.0 0 Point 58.0 130.0 0 3 true
+Rectangle Point 49.0 274.0 0 Point 192.0 286.0 0 0 false
+Triangle Point 162.0 269.0 0 Point 188.0 270.0 0 Point 176.0 215.0 0 0 false
+Triangle Point 67.0 268.0 0 Point 47.0 269.0 0 Point 51.0 207.0 0 0 false
+Rectangle Point 218.0 293.0 0 Point 218.0 289.0 0 0 false
+Rectangle Point 30.0 50.0 0 Point 218.0 292.0 0 0 false
+Rectangle Point 54.0 277.0 0 Point 90.0 282.0 0 3 true
+Rectangle Point 142.0 277.0 0 Point 184.0 283.0 0 3 true
+Rectangle Point 98.0 277.0 0 Point 136.0 282.0 0 3 true
