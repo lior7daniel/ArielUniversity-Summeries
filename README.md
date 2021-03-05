@@ -48,5 +48,12 @@
     * **Task#3**
     * **Task#4**
 
+* `Racket - Structure of programming languages Course`
+    * **FINAL WORK**
+    * **Task#1**
+    * **Task#2**
+    * **Task#3**
+    * **Task#4**
+
 * `Seminar`
     * **מצגת שלי להרצאה בנושא רשתות נוירונים כחלק מהסמינר**
