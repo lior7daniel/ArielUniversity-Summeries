@@ -1,0 +1,67 @@
+prisonersLampOn(int n)
+	prisoners[] = new boolean[n]
+	for(i = 0 to n)
+		prisoners[i] = false
+	count = 0, steps = 0
+	lamp = true
+	while(count < n)
+		steps++
+		p = (int)(Math.random()*n)
+		if(p == 0)
+			if(!prisoners[p])
+				prisoners[p] = true
+				count++
+			if(!lamp)
+				lamp = true
+				count++
+		else
+			if(!prisoners[p] && lamp)
+				prisoners[p] = true
+				lamp = false
+	for(i = 0 to n)
+		if(!prisoners[i]) return false
+	return true
+
+prisonersLampUnknown(int n)
+	prisoners[] = new int[n]
+	count = 0
+	lamp = (int)((Math.random()*2) == 0 ? false : true)
+	while(count < 2*n)
+		p = (int)(Math.random()*n)
+		if(p == 0 && !lamp)
+			lamp = true
+			count++
+			if(prisoners[p] == 0)
+				prisoners[p]++
+				count++
+		else if(!lamp && prisoners[p] < 2)
+			lamp = false
+			prisoners[p]++
+	for(i = 0 to n)
+		if(prisoners[i] == 0) return false
+	return true
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

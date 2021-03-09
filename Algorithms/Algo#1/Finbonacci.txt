@@ -1,0 +1,19 @@
+fibMatrix(int n)
+	ans[][] = {{1,1},{1,0}}
+	mat[][] = {{1,1},{1,0}}
+	n -= 2
+	while(n != 0)
+		if(n % 2 == 1)
+			ans = mult2dMatrix(ans,mat)
+		mat = mult2dMatrix(mat,mat)
+		n /= 2
+	return mat[0][0]
+	
+private static int[][] mult2dMatrix(int[][] a,int[][] b){//O(1)
+		int[][] res=new int[2][2];
+		res[0][0]=a[0][0]*b[0][0]+a[0][1]*b[1][0];
+		res[0][1]=a[0][0]*b[0][1]+a[0][1]*b[1][1];
+		res[1][0]=a[1][0]*b[0][0]+a[1][1]*b[1][0];
+		res[1][1]=a[1][0]*b[0][1]+a[1][1]*b[1][1];
+		return  res;
+	}

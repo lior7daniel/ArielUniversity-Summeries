@@ -1,0 +1,45 @@
+NumberGame
+
+buildMatrix(int game[])
+	n = game.length()
+	mat[][] = new int[n][n]
+	
+	for(i = 0 to n)
+		mat[i][i] = game[i]
+	
+	for(i = n-2 to 0)
+		for(j = i+1 to n)
+			mat[i][j] = MAX(game[i] - mat[i+1][j], game[j] - mat[i][j-1]
+	
+	return mat
+
+numberGame(int game[])
+	n = game.length()
+	mat = buildMatrix(game)
+	firstSum = 0, secondSum = 0, firstChoose = 0, secondChoose = 0, i = 0, j = n-1
+	
+	for(k = 0 to n/2)
+		if(game[i] - mat[i+1][j] > game[j] - mat[i][j-1]
+			firstSum += game[i]
+			firstChoose = game[i]
+			i++
+		else
+			firstSum += game[j]
+			firstChoose = game[j]
+			j--
+		if(i != j)
+				if(game[i] - mat[i+1][j] > game[j] - mat[i][j-1]
+					secondSum += game[i]
+					secondChoose = i
+					i++
+				else
+					secondSum += game[j]
+					secondChoose = j
+					j--
+		else
+				secondSum += game[i]
+				secondChoose = i
+				
+		print("firstChoose : " + firstChoose + ", secondChoose : " + secondChoose)
+	
+	print("firstSum = " + firstSum + ", secondSum = " + secondSum)
