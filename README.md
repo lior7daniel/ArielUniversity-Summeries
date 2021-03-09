@@ -11,49 +11,51 @@
     * **סיכום ליאור דניאל** - סיכום קודים לאלגוריתמים 2.
 
 * `c++ (OOP) Course.`
-    * **Task#1**
-    * **Task#2**
-    * **Task#3**
+    * **Exc#1**
+    * **Exc#2**
+    * **Exc#3**
     
 * `DataBases Course.`
     * **סיכום שלי לנושאים מהקורס**
-    * **Task#1**
-    * **Task#2**
-    * **Task#3**
+    * **Exc#1**
+    * **Exc#2**
+    * **Exc#3**
 
 * `DataCopmpression Course.`
     * **סיכום שלי לנושאים מהקורס**
-    * **Task#1**
-    * **Task#2**
-    * **Task#3**
-    * **Task#4**
+    * **Exc#1**
+    * **Exc#2**
+    * **Exc#3**
+    * **Exc#4**
 
 * `Distributed systemsCourse.`
     * **סיכום שלי לנושאים מהקורס**
 
 * `Java (OOP) Course.`
-    * **Task#2**
-    * **Task#3**
-    * **Task#4**
+    * **Exc#0**
+    * **Exc#1**  
+    * **Exc#2**
+    * **Exc#3**
+    * **Exc#4**
 
 * `Neural Network Course`
     * **סיכום שלי לנושאים מהקורס**
-    * **Task#1**
+    * **Exc#1**
 
 * `Operation Systems Course`
     * **סיכום שלי לנושאים מהקורס**
     * **FINAL WORK**
-    * **Task#1**
-    * **Task#2**
-    * **Task#3**
-    * **Task#4**
+    * **Exc#1**
+    * **Exc#2**
+    * **Exc#3**
+    * **Exc#4**
 
 * `Racket - Structure of programming languages Course`
     * **FINAL WORK**
-    * **Task#1**
-    * **Task#2**
-    * **Task#3**
-    * **Task#4**
+    * **Exc#1**
+    * **Exc#2**
+    * **Exc#3**
+    * **Exc#4**
 
 * `Seminar`
     * **מצגת שלי להרצאה בנושא רשתות נוירונים כחלק מהסמינר**
