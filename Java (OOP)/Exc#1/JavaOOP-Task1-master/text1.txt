@@ -1,0 +1,3339 @@
+ Anglistik Home Page
+
+© Copyright Michael Stubbs 2000.
+
+Readers are welcome to print individual copies of this paper for private study. Reference should always be made to the original place of publication which is:
+
+C Heffer & H Saunston eds (2000) Words in Context: A Tribute to John Sinclair on his Retirement. English Language Research Discourse Analysis Monograph 18. University of Birmingham. [CD-ROM.]
+
+USING VERY LARGE TEXT COLLECTIONS TO STUDY SEMANTIC SCHEMAS: A RESEARCH NOTE
+Michael Stubbs
+
+FB2 Anglistik, Universita"t Trier, D-54286 Trier, Germany
+stubbs@uni-trier.de
+
+TERMINOLOGY AND CONVENTIONS
+
+    * 'Word-forms' are in lower case in single quotes.
+    * 'LEMMAS' are in upper case in single quotes.
+    * "Meanings" (e.g. discourse prosodies) are in double quotes.
+    * <Frequent collocates> of a node are in diamond brackets.
+    * Collocates are studied in a span of words before and after a node word, here four words to left and right (4:4) 
+
+This paper illustrates two principles to bear in mind when drawing conclusions from corpus data. (1) It is unwise to rely on a single corpus, however large or well designed it might be: all corpora have in-built biases, and findings should therefore be checked in different independent corpora. A subsidiary point is that it is sometimes necessary to check findings in very large text collections. (2) A method of study should be appropriate to its object of study. Here, this means that methods should be sensitive to the main broad finding of corpus linguistics, that there is a layer of organization between lexis and syntax, which is variously called lexico-grammar and extended lexical units (Sinclair 1998), idiom schemas (Moon 1998), and semantic coagulations (Teubert 1999). A related finding is that these schemas often have evaluative connotations. Corpus methods must be sensitive to this pragmatic turn (Weigand 1998) in work on lexis.
+
+I will illustrate these two principles with examples from the following data-base, corpora and text collections:
+
+    * COBUILD COLLOCATIONS: not a corpus, but a data-base (Cobuild 1995) comprising the 10,000 most frequent word-forms in a 200-million word sub-corpus of the Bank of English, and their 20 most frequent collocates (plus 20 concordance lines for each node-collocate combination).
+    * COBUILD: a 56-million-word sub-corpus of the Bank of English, available on-line as CobuildDirect at http://titania.cobuild.collins.co.uk/form.html.
+    * BNC: the 100-million-word British National Corpus, available on-line at http://thetis.bl.uk/lookup.html.
+    * TIMES: the Times and Sunday Times for 1995 on CD-ROM, over 91,000 articles, and probably around 45 million running words.
+    * ALLTHEWEB: the 200 million World Wide Web documents indexed (in December 1999) by the search engine available on-line at http://www.alltheweb.com; the size of this text collection is unknown and difficult to estimate, but it must contain thousands of millions of running words of English. 
+
+Several terms for different kinds of corpus have become fairly standard (Sinclair 1995). The only distinction which I need here is between a corpus and a text collection. A corpus has been designed on given criteria for linguistic research. Usually these criteria are external and sociolinguistic, and based on a theory of text-types. Examples of corpora are COBUILD and BNC. A text collection has not been designed for any linguistic purpose. It has been put together, or has simply accumulated, for some independent reason, and might be used, opportunistically, for linguistic purposes. An example is TIMES. (Newspapers on CD-ROM may constitute a very good, homogeneous sample of specific text-types.) The largest available text collection is the World Wide Web itself.
+
+Here then are three examples which illustrate the two principles.
+
+1. THE 'RIPE OLD AGE' SCHEMA
+A major finding of corpus linguistics is that all words occur in predictable collocations. There are very few absolutely fixed phrases: words have typical uses, and occur in central semantic patterns, but these patterns almost always have considerable lexical variation. The hypothesis is that there are simple underlying semantic units (for which relatively small corpora may provide sufficient evidence), but that these units typically show considerable surface lexical variation (for which very large text collections may be required as evidence).
+
+For example, as noted briefly by Fillmore (1997), the phrase 'ripe old age' usually has very positive connotations. It occurs in a longer schema: "people want to live to a ripe old age" and/or "people are admired for living to a ripe old age". Attested examples of such uses are:
+
+
+                            hoping to live to a ripe old age
+                      enjoying good health to a ripe old age
+                     if you expect to live to a ripe old age
+           stand a better chance of living to a ripe old age
+                                  living to the ripe old age of 70 years
+                                    reached the ripe old age of 75
+                         until his death at the ripe old age of 87
+           
+
+The admiration (and sometimes slight envy?) is signalled by the lexis in examples such as
+
+    * it is a major triumph of the 20th century that many more people survive to a ripe old age
+    * he survived the perils of infancy to live to the ripe old age of 74 
+
+A general model which is useful in showing the construction of such patterns is proposed by Sinclair (1998). Words occur in extended lexical units which comprise a configuration of characteristic items from
+
+    * lexis: preferred individual collocates
+    * syntax: preferred colligations
+    * semantics: words from preferred semantic fields
+    * pragmatics: a discourse prosody, expressing speaker attitude 
+
+Thus, the phrase 'ripe old age' frequently occurs with the individual collocates 'LIVE to' or 'REACH', but also with other semantically related verbs such as 'ATTAIN', 'SURVIVE to', 'GO on to'. There are preferred colligations: often a preceding verb plus preposition plus determiner. There are semantic preferences: often verbs such as 'ASPIRE', 'HOPE', 'INTEND', 'STRIVE' and 'WANT', and/or words concerning dangers and risks, such as 'death', 'maximum life-span', and 'perils of infancy'. Other vocabulary may explicitly express the positive discourse prosody and the speaker's admiration for the achievement: reaching a 'ripe old age' is a good thing to do.
+
+It is easy to state the prototypical semantic pattern, but impossible to list all the variant phrases. First, the collocates above are only some possibilities. Second, there are further variants of the core phrase. The only obligatory word is 'age'. The phrase 'ripe old age' is frequent, but 'ripe age', 'grand (old) age' and 'good (old) age' also occur. Therefore a very large text collection may be required to show the relative frequency of variants, since even if words are individually quite frequent, collocations of these words may drop to zero in corpora as large as 100-million words. Consider the frequencies of related phrases in four sets of material:
+
+
+
+                             TIMES   COBUILD    BNC     ALLTHEWEB
+
+           ripe old age        15      11        33        7965
+           good old age         1       1         7        1593
+           grand old age        5       2         7         541
+
+           LIVE to a/the
+              ripe old age      4       1        12        1791
+              good old age      1       1         1         250
+              grand old age     0       0         0          40
+
+           REACH a/the
+              ripe old age      0       1         3         454
+              good old age      0       0         0          19
+              grand old age     1       0         2          84
+
+           
+
+Only ALLTHEWEB provides enough examples to show with confidence that all these variants do occur, and which are more or less frequent (and these variants are only a small sample of the possibilities).
+
+2. THE 'UNDERGO' SCHEMA
+Here is a second example, which shows that it may be possible to collect solid supporting evidence for a schema from a relatively small corpus, but that a much larger corpus may be required to check for potential counter examples. The verb 'UNDERGO' typically occurs in a simple semantic schema in which people or things "involuntarily UNDERGO something serious and unpleasant". If the subject of the verb is a human individual, then the most frequent object noun phrase is some medical procedure, and the most frequent individual noun collocate is 'surgery'. Here are a few examples:
+
+
+
+                     is to undergo a historic transformation
+                   did not undergo a major metamorphosis until
+            asking them to undergo a medical examination
+            is expected to undergo a psychiatric examination
+                    had to undergo a stringent medical examination
+           being forced to undergo an Achilles tendon operation
+           are required to undergo an "eyescan" before being allowed
+                    had to undergo brain surgery
+               is about to undergo dramatic changes
+              scheduled to undergo his eighth open heart surgery
+               continue to undergo major cutbacks
+                 forced to undergo random drug testing
+
+           
+
+Again, at least informally, it is easy to state the prototypical semantic schema:
+
+
+
+
+           - involuntary -----------------------------------------------
+           ----------------------- serious --- unpleasant --------------
+
+           often                   often       usually
+           PASSIVE or              ADJECTIVE   MEDICAL PROCEDURE,
+           MODAL                               TESTING, CHANGE, etc
+
+           forced to     undergo   further     surgery etc
+           required to             extensive   medical or other testing
+           had to                  major       training
+           must                    severe      change
+                                   etc         a trauma etc
+           
+           
+
+This prototype is a hypothesis about the most typical uses of 'UNDERGO'. (In this case, rather exceptionally, all the forms of the lemma show very similar collocates.) This hypothesis is a prediction that we will find similar examples in other independent corpora. However, this is the easy part: any reasonably large corpus will provide dozens of further examples which support the hypothesis, but this would not tell us anything new. A hypothesis is also a prediction that we will not find any counter examples. Every good theory is a prohibition: a claim that certain things will not happen. So, the hypothesis has to be tested by looking deliberately for counter examples which would lead us to reject or modify the hypothesis. If we find them, we would learn something new. (Popper 1963.)
+
+For example, do we find occurrences of the phrase 'willingly UNDERGO'? This might provide counter examples to the claim that the discourse prosody includes the unit "involuntary". Again, smaller text collections (of up to 100 million words) are of no help. There was only one example each in the TIMES and COBUILD data, and none at all in the BNC.
+
+3. THE 'WILLINGLY UNDERGO' SCHEMA
+However, ALLTHEWEB provided 176 examples, such as
+
+    * no-one, short of a severely psychotic masochist, would willingly undergo what she went through
+    * there is no way I'd willingly undergo a procedure that carries that risk with it
+    * why did he willingly undergo forty years of hardship?
+    * why willingly undergo the dangers and tortures of such a struggle, risk life itself?
+    * it is indeed difficult to understand how a thoughtful writer can willingly undergo the throes and agonies of ...
+    * one can willingly undergo some painful experience for one who is dearly loved
+    * Christ took upon him all the sins of the world and willingly underwent that grief of heart ...
+    * sufferings and dangers the early Christian willingly underwent for the sake of ...
+    * yea, he patiently suffers and willingly undergoes afflictions 
+
+So, the phrase does occur, but it seems not to provide counter examples to the hypothesized schema for 'UNDERGO', and indeed provides evidence of a related prosody. The phrase often occurs in negatives, in questions or in hypothetical statements. The speaker is saying that they would not personally want to undergo some unpleasant experience. Alternatively they are expressing incredulity or admiration that someone could willingly undergo some unpleasant experience or sacrifice. The context is sometimes medical or military, but most frequently religious.
+
+The phrase has a clear discourse prosody: "someone willingly undergoes a sacrifice for the sake of someone else". Examples include reports of parents who willingly undergo sacrifices for the sake of their children. The phrase 'for the sake of' occurs in several examples. So do related phrases such as 'to be able to', 'as evidence of', and 'as a sign that'. Co-occurring vocabulary which implies sacrifice (often religious) includes: 'martyrdom', 'atonement', 'a small price to pay', 'deprivation', 'the burden laid on them'.
+
+I found also very similar patterns around the phrase 'cheerfully UNDERGO', where examples included:
+
+    * what they cheerfully underwent for the sake of His Gospel
+    * cheerfully undergoing it for the sake of the country
+    * martyrs for Christ have cheerfully undergone extreme tortures 
+
+The method proposed here is that of conjectures and refutations (Popper 1963): formulate a hypothesis, collect supporting evidence, then search for potential counter examples. Consider if they are genuine counter examples. If yes: reformulate the hypothesis. If no: keep searching!
+
+4. THE WEB AS A TEXT COLLECTION
+In the case of 'willingly' and 'cheerfully UNDERGO' the pattern is clear, but only a very large text collection can provide the 40 or 50 examples which would be the minimum number required to study it. The largest text collection currently available is the World Wide Web itself, and one search engine (www.alltheweb.com) claims (December 1999) to index 200 million documents. Clearly the Web is not a corpus: it has obviously not been designed on linguistic principles (it hasn't been designed at all). So, the question is: if it used, opportunistically, as a text collection (from which virtual sub-corpora can be formed to answer specific questions), can one draw valid conclusions from it about general language use?
+
+The Web certainly has potential disadvantages as linguistic data. Many documents occur more than once (though this is also true of many corpora; and if a document is stored at different addresses, perhaps its language should be weighted accordingly). It is very largely written data (though there are transcribed versions of public news statements and the like). Not all documents are written by native English speakers (though this seems not to affect the examples cited above). And we have no real idea of what proportions it contains of different text-types, and no real idea how many running words it contains (though it might be possible to estimate this at least roughly by sampling word frequencies).
+
+On the other hand, the Web certainly has potential advantages as a text collection. It is very very large, and growing. It is very mixed: it contains a wide selection of text-types, including material which is relatively rare in the designed corpora (e.g. many texts which are written, but not formally published, and therefore not professionally edited.) And even if we have only a very rough idea of what is in the whole collection, any individual example (phrase, collocation, etc) can be studied in its full co-text. The Web has considerable potential as a source of temporary and virtual corpora to study particular patterns.
+
+5. FORMS OF THE LEMMA 'SEEK'
+My examples so far have shown problems which arise when a corpus does not contain enough examples of a pattern. Conversely, a corpus may contain too many examples of a specific pattern, because it contains too many examples of a specialized text-type. Smadja (1993: 169) notes an extreme example in a study of an 8-million word corpus of Associated Press news-wire stories, mainly about the stock market. The word 'food' was frequent, but 'EAT' was not among its collocates, since food is not 'eaten' on Wall Street but rather 'traded', 'sold', 'offered', 'bought', and so on. In general, it is well known that words differ in their collocational behaviour in different text-types.
+
+Here is a more complex example. I was interested in the different collocations of different word-forms of a single lemma. In COBUILD COLLOCATIONS (Cobuild 1995), I noticed that the different forms of the lemma 'SEEK' were used quite differently. In this data-base, the top 20 collocates of the form 'seeks', in descending frequency, are
+
+    * <female, black, male, attractive, similar, guy, lady, man, caring, professional, slim, intelligent, worldwide, friends, lesbian, woman, sincere, honest, good, non> 
+
+These collocates are frequent due to the word-form occurring in lonely hearts ads, such as
+
+    * female 31, single, seeks well educated gentleman 
+
+The collocates of 'seeks' hardly overlap at all with the collocates of 'seek', 'seeking' and 'sought'. But these three forms have 6 shared collocates, largely from political and legal contexts, in the semantic field of "help and support":
+
+    * <asylum, court, government, help, political, support> 
+
+These findings are not a statement about the whole language, but about the text-types sampled in the corpus used for the data-base. Obviously, if the corpus had contained no magazines with lonely hearts ads, then there would be no such examples of 'seeks'. Equally obviously, the corpus must have contained enough examples to make these collocations more frequent than other collocations. It is therefore not surprising that different corpora show different patterns. The BNC contains rather different examples, from other personal adverts ('guitarist seeks working band') and from newspaper headlines ('Microsoft seeks partners'): these uses share the need to use short words. But there are also other examples from formal, including legal, texts, such as
+
+    * where a buyer seeks to reject goods supplied under a sale contract ...
+    * in his Symphonic Etudes, he consciously seeks an orchestral sonority 
+
+The relatively formal language of the TIMES confirmed these findings: there were over 500 occurrences of 'seeks'.
+
+The principles here are as follows. (1) If a corpus contains too many examples of a specialized text-type, this may give a misleadingly narrow view of the uses of the target word. (2) This type of bias will be increased by a method which looks at only the top 20 collocates of a word. Collocates further down the list may signal other uses.
+
+(3) If a corpus claims to represent general usage, it should not contain too many examples of texts with a high percentage of unusual features, such as lonely hearts ads, knitting patterns, and weather forecasts. Such texts are not in daily use by substantial numbers of native speakers (Sinclair 1995: 24), and indeed many native speakers cannot fully understand their abbreviated lexis and unusual syntax.
+
+6. CONCLUSIONS
+These brief examples confirm the two principles which I proposed at the beginning of this note:
+
+(1) Reliance on any single corpus is risky. It is best to combine: largish general corpora designed according to a sociolinguistic theory of text-type variation, small specialist corpora put together (possibly temporarily) for particular knowledge domains or text-types, and very large opportunistic text collections.
+
+(2) Data collection should be sensitive to the types of patterns which corpus studies have shown to be characteristic of language in use. These patterns are semantic schemas which reside in an irreducible layer of organization between lexis and grammar. The prototypes of these schemas are simple and can sometimes be discovered with relatively small corpora (where relatively small = millions of running words). But to study their lexical variability, or to study the discourse prosodies around less frequent phrases, much larger text collections may be necessary.
+
+ACKNOWLEDGEMENTS
+This paper is a short footnote to work by John Sinclair, who argues that corpora should, in principle, be as large as is feasible, and who shows with many examples, that large corpora are often required to study the relations between lexis and syntax. I am grateful to Christine Spies for help with data collection and analysis. A version of this paper was presented to the Colloquium on Multilingual Corpora at the University of the Saarland, Saarbru"cken, Germany, 21 January 2000: I am grateful to Erich Steiner and his colleagues for discussion on that occasion.
+
+REFERENCES
+Cobuild (1995) Collins COBUILD English Collocations on CD-ROM. London: HarperCollins.
+
+Fillmore, C. J. (1997) Lectures on construction grammar. Available on-line at http://www.icsi.berkeley.edu/~kay/bcg/lec02.html. (Accessed 11 May 1999.)
+
+Moon, R. (1998) Fixed Expressions and Idioms in English: A Corpus-Based Approach. Oxford: Clarendon.
+
+Popper, K. R. (1963) Conjectures and Refutations. London: Routledge & Kegan Paul.
+
+Sinclair, J. (1995) Corpus typology: a framework for classification. In G. Melchers & B. Warren eds Studies in Anglistics. Stockholm: Almqvist & Wiksell. 17-33.
+
+Sinclair, J. (1998) The lexical item. In E. Weigand ed Contrastive Lexical Semantics. Amsterdam: Benjamins. 1-24.
+
+Smadja, F. (1993) Retrieving collocations from text. Xtract. Computational Linguistics, 19, 1. Also in Armstrong, S. ed. (1994) Using Large Corpora. Cambridge, Ma: MIT Press. 143-77.
+
+Teubert, W. (1999) Corpus linguistics: a partisan view. Available on-line at http://solaris3.ids-mannheim.de/ijcl/teubert_cl.html. (Accessed 24 November 1999.)
+
+Weigand, E. (1998) Contrastive lexical semantics. In E. Weigand ed Contrastive Lexical Semantics. Amsterdam: Benjamins. 25-44.
+
+Anglistik, Universita"t Trier, D-54286 Trier, Germany.
+Last up-dated March 2001. 
+
+va.util
+Class Arrays
+
+java.lang.Object
+  extended by java.util.Arrays
+
+public class Arrays
+extends Object
+
+This class contains various methods for manipulating arrays (such as sorting and searching). This class also contains a static factory that allows arrays to be viewed as lists.
+
+The methods in this class all throw a NullPointerException if the specified array reference is null, except where noted.
+
+The documentation for the methods contained in this class includes briefs description of the implementations. Such descriptions should be regarded as implementation notes, rather than parts of the specification. Implementors should feel free to substitute other algorithms, so long as the specification itself is adhered to. (For example, the algorithm used by sort(Object[]) does not have to be a mergesort, but it does have to be stable.)
+
+This class is a member of the Java Collections Framework.
+
+Since:
+    1.2
+See Also:
+    Comparable, Comparator
+
+Method Summary
+static
+<T> List<T>
+	asList(T... a)
+          Returns a fixed-size list backed by the specified array.
+static int 	binarySearch(byte[] a, byte key)
+          Searches the specified array of bytes for the specified value using the binary search algorithm.
+static int 	binarySearch(char[] a, char key)
+          Searches the specified array of chars for the specified value using the binary search algorithm.
+static int 	binarySearch(double[] a, double key)
+          Searches the specified array of doubles for the specified value using the binary search algorithm.
+static int 	binarySearch(float[] a, float key)
+          Searches the specified array of floats for the specified value using the binary search algorithm.
+static int 	binarySearch(int[] a, int key)
+          Searches the specified array of ints for the specified value using the binary search algorithm.
+static int 	binarySearch(long[] a, long key)
+          Searches the specified array of longs for the specified value using the binary search algorithm.
+static int 	binarySearch(Object[] a, Object key)
+          Searches the specified array for the specified object using the binary search algorithm.
+static int 	binarySearch(short[] a, short key)
+          Searches the specified array of shorts for the specified value using the binary search algorithm.
+static
+<T> int
+	binarySearch(T[] a, T key, Comparator<? super T> c)
+          Searches the specified array for the specified object using the binary search algorithm.
+static boolean 	deepEquals(Object[] a1, Object[] a2)
+          Returns true if the two specified arrays are deeply equal to one another.
+static int 	deepHashCode(Object[] a)
+          Returns a hash code based on the "deep contents" of the specified array.
+static String 	deepToString(Object[] a)
+          Returns a string representation of the "deep contents" of the specified array.
+static boolean 	equals(boolean[] a, boolean[] a2)
+          Returns true if the two specified arrays of booleans are equal to one another.
+static boolean 	equals(byte[] a, byte[] a2)
+          Returns true if the two specified arrays of bytes are equal to one another.
+static boolean 	equals(char[] a, char[] a2)
+          Returns true if the two specified arrays of chars are equal to one another.
+static boolean 	equals(double[] a, double[] a2)
+          Returns true if the two specified arrays of doubles are equal to one another.
+static boolean 	equals(float[] a, float[] a2)
+          Returns true if the two specified arrays of floats are equal to one another.
+static boolean 	equals(int[] a, int[] a2)
+          Returns true if the two specified arrays of ints are equal to one another.
+static boolean 	equals(long[] a, long[] a2)
+          Returns true if the two specified arrays of longs are equal to one another.
+static boolean 	equals(Object[] a, Object[] a2)
+          Returns true if the two specified arrays of Objects are equal to one another.
+static boolean 	equals(short[] a, short[] a2)
+          Returns true if the two specified arrays of shorts are equal to one another.
+static void 	fill(boolean[] a, boolean val)
+          Assigns the specified boolean value to each element of the specified array of booleans.
+static void 	fill(boolean[] a, int fromIndex, int toIndex, boolean val)
+          Assigns the specified boolean value to each element of the specified range of the specified array of booleans.
+static void 	fill(byte[] a, byte val)
+          Assigns the specified byte value to each element of the specified array of bytes.
+static void 	fill(byte[] a, int fromIndex, int toIndex, byte val)
+          Assigns the specified byte value to each element of the specified range of the specified array of bytes.
+static void 	fill(char[] a, char val)
+          Assigns the specified char value to each element of the specified array of chars.
+static void 	fill(char[] a, int fromIndex, int toIndex, char val)
+          Assigns the specified char value to each element of the specified range of the specified array of chars.
+static void 	fill(double[] a, double val)
+          Assigns the specified double value to each element of the specified array of doubles.
+static void 	fill(double[] a, int fromIndex, int toIndex, double val)
+          Assigns the specified double value to each element of the specified range of the specified array of doubles.
+static void 	fill(float[] a, float val)
+          Assigns the specified float value to each element of the specified array of floats.
+static void 	fill(float[] a, int fromIndex, int toIndex, float val)
+          Assigns the specified float value to each element of the specified range of the specified array of floats.
+static void 	fill(int[] a, int val)
+          Assigns the specified int value to each element of the specified array of ints.
+static void 	fill(int[] a, int fromIndex, int toIndex, int val)
+          Assigns the specified int value to each element of the specified range of the specified array of ints.
+static void 	fill(long[] a, int fromIndex, int toIndex, long val)
+          Assigns the specified long value to each element of the specified range of the specified array of longs.
+static void 	fill(long[] a, long val)
+          Assigns the specified long value to each element of the specified array of longs.
+static void 	fill(Object[] a, int fromIndex, int toIndex, Object val)
+          Assigns the specified Object reference to each element of the specified range of the specified array of Objects.
+static void 	fill(Object[] a, Object val)
+          Assigns the specified Object reference to each element of the specified array of Objects.
+static void 	fill(short[] a, int fromIndex, int toIndex, short val)
+          Assigns the specified short value to each element of the specified range of the specified array of shorts.
+static void 	fill(short[] a, short val)
+          Assigns the specified short value to each element of the specified array of shorts.
+static int 	hashCode(boolean[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(byte[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(char[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(double[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(float[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(int[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(long[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(Object[] a)
+          Returns a hash code based on the contents of the specified array.
+static int 	hashCode(short[] a)
+          Returns a hash code based on the contents of the specified array.
+static void 	sort(byte[] a)
+          Sorts the specified array of bytes into ascending numerical order.
+static void 	sort(byte[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of bytes into ascending numerical order.
+static void 	sort(char[] a)
+          Sorts the specified array of chars into ascending numerical order.
+static void 	sort(char[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of chars into ascending numerical order.
+static void 	sort(double[] a)
+          Sorts the specified array of doubles into ascending numerical order.
+static void 	sort(double[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of doubles into ascending numerical order.
+static void 	sort(float[] a)
+          Sorts the specified array of floats into ascending numerical order.
+static void 	sort(float[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of floats into ascending numerical order.
+static void 	sort(int[] a)
+          Sorts the specified array of ints into ascending numerical order.
+static void 	sort(int[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of ints into ascending numerical order.
+static void 	sort(long[] a)
+          Sorts the specified array of longs into ascending numerical order.
+static void 	sort(long[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of longs into ascending numerical order.
+static void 	sort(Object[] a)
+          Sorts the specified array of objects into ascending order, according to the natural ordering of its elements.
+static void 	sort(Object[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of objects into ascending order, according to the natural ordering of its elements.
+static void 	sort(short[] a)
+          Sorts the specified array of shorts into ascending numerical order.
+static void 	sort(short[] a, int fromIndex, int toIndex)
+          Sorts the specified range of the specified array of shorts into ascending numerical order.
+static
+<T> void
+	sort(T[] a, Comparator<? super T> c)
+          Sorts the specified array of objects according to the order induced by the specified comparator.
+static
+<T> void
+	sort(T[] a, int fromIndex, int toIndex, Comparator<? super T> c)
+          Sorts the specified range of the specified array of objects according to the order induced by the specified comparator.
+static String 	toString(boolean[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(byte[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(char[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(double[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(float[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(int[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(long[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(Object[] a)
+          Returns a string representation of the contents of the specified array.
+static String 	toString(short[] a)
+          Returns a string representation of the contents of the specified array.
+ 
+Methods inherited from class java.lang.Object
+clone, equals, finalize, getClass, hashCode, notify, notifyAll, toString, wait, wait, wait
+ 
+
+Method Detail
+sort
+
+public static void sort(long[] a)
+
+    Sorts the specified array of longs into ascending numerical order. The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(long[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of longs into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(int[] a)
+
+    Sorts the specified array of ints into ascending numerical order. The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(int[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of ints into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(short[] a)
+
+    Sorts the specified array of shorts into ascending numerical order. The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(short[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of shorts into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(char[] a)
+
+    Sorts the specified array of chars into ascending numerical order. The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(char[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of chars into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(byte[] a)
+
+    Sorts the specified array of bytes into ascending numerical order. The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(byte[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of bytes into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(double[] a)
+
+    Sorts the specified array of doubles into ascending numerical order.
+
+    The < relation does not provide a total order on all floating-point values; although they are distinct numbers -0.0 == 0.0 is true and a NaN value compares neither less than, greater than, nor equal to any floating-point value, even itself. To allow the sort to proceed, instead of using the < relation to determine ascending numerical order, this method uses the total order imposed by Double.compareTo(java.lang.Double). This ordering differs from the < relation in that -0.0 is treated as less than 0.0 and NaN is considered greater than any other floating-point value. For the purposes of sorting, all NaN values are considered equivalent and equal.
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(double[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of doubles into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The < relation does not provide a total order on all floating-point values; although they are distinct numbers -0.0 == 0.0 is true and a NaN value compares neither less than, greater than, nor equal to any floating-point value, even itself. To allow the sort to proceed, instead of using the < relation to determine ascending numerical order, this method uses the total order imposed by Double.compareTo(java.lang.Double). This ordering differs from the < relation in that -0.0 is treated as less than 0.0 and NaN is considered greater than any other floating-point value. For the purposes of sorting, all NaN values are considered equivalent and equal.
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(float[] a)
+
+    Sorts the specified array of floats into ascending numerical order.
+
+    The < relation does not provide a total order on all floating-point values; although they are distinct numbers -0.0f == 0.0f is true and a NaN value compares neither less than, greater than, nor equal to any floating-point value, even itself. To allow the sort to proceed, instead of using the < relation to determine ascending numerical order, this method uses the total order imposed by Float.compareTo(java.lang.Float). This ordering differs from the < relation in that -0.0f is treated as less than 0.0f and NaN is considered greater than any other floating-point value. For the purposes of sorting, all NaN values are considered equivalent and equal.
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+
+sort
+
+public static void sort(float[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of floats into ascending numerical order. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.)
+
+    The < relation does not provide a total order on all floating-point values; although they are distinct numbers -0.0f == 0.0f is true and a NaN value compares neither less than, greater than, nor equal to any floating-point value, even itself. To allow the sort to proceed, instead of using the < relation to determine ascending numerical order, this method uses the total order imposed by Float.compareTo(java.lang.Float). This ordering differs from the < relation in that -0.0f is treated as less than 0.0f and NaN is considered greater than any other floating-point value. For the purposes of sorting, all NaN values are considered equivalent and equal.
+
+    The sorting algorithm is a tuned quicksort, adapted from Jon L. Bentley and M. Douglas McIlroy's "Engineering a Sort Function", Software-Practice and Experience, Vol. 23(11) P. 1249-1265 (November 1993). This algorithm offers n*log(n) performance on many data sets that cause other quicksorts to degrade to quadratic performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+sort
+
+public static void sort(Object[] a)
+
+    Sorts the specified array of objects into ascending order, according to the natural ordering of its elements. All elements in the array must implement the Comparable interface. Furthermore, all elements in the array must be mutually comparable (that is, e1.compareTo(e2) must not throw a ClassCastException for any elements e1 and e2 in the array).
+
+    This sort is guaranteed to be stable: equal elements will not be reordered as a result of the sort.
+
+    The sorting algorithm is a modified mergesort (in which the merge is omitted if the highest element in the low sublist is less than the lowest element in the high sublist). This algorithm offers guaranteed n*log(n) performance.
+
+    Parameters:
+        a - the array to be sorted. 
+    Throws:
+        ClassCastException - if the array contains elements that are not mutually comparable (for example, strings and integers).
+    See Also:
+        Comparable
+
+sort
+
+public static void sort(Object[] a,
+                        int fromIndex,
+                        int toIndex)
+
+    Sorts the specified range of the specified array of objects into ascending order, according to the natural ordering of its elements. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.) All elements in this range must implement the Comparable interface. Furthermore, all elements in this range must be mutually comparable (that is, e1.compareTo(e2) must not throw a ClassCastException for any elements e1 and e2 in the array).
+
+    This sort is guaranteed to be stable: equal elements will not be reordered as a result of the sort.
+
+    The sorting algorithm is a modified mergesort (in which the merge is omitted if the highest element in the low sublist is less than the lowest element in the high sublist). This algorithm offers guaranteed n*log(n) performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length 
+        ClassCastException - if the array contains elements that are not mutually comparable (for example, strings and integers).
+    See Also:
+        Comparable
+
+sort
+
+public static <T> void sort(T[] a,
+                            Comparator<? super T> c)
+
+    Sorts the specified array of objects according to the order induced by the specified comparator. All elements in the array must be mutually comparable by the specified comparator (that is, c.compare(e1, e2) must not throw a ClassCastException for any elements e1 and e2 in the array).
+
+    This sort is guaranteed to be stable: equal elements will not be reordered as a result of the sort.
+
+    The sorting algorithm is a modified mergesort (in which the merge is omitted if the highest element in the low sublist is less than the lowest element in the high sublist). This algorithm offers guaranteed n*log(n) performance.
+
+    Parameters:
+        a - the array to be sorted.
+        c - the comparator to determine the order of the array. A null value indicates that the elements' natural ordering should be used. 
+    Throws:
+        ClassCastException - if the array contains elements that are not mutually comparable using the specified comparator.
+    See Also:
+        Comparator
+
+sort
+
+public static <T> void sort(T[] a,
+                            int fromIndex,
+                            int toIndex,
+                            Comparator<? super T> c)
+
+    Sorts the specified range of the specified array of objects according to the order induced by the specified comparator. The range to be sorted extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be sorted is empty.) All elements in the range must be mutually comparable by the specified comparator (that is, c.compare(e1, e2) must not throw a ClassCastException for any elements e1 and e2 in the range).
+
+    This sort is guaranteed to be stable: equal elements will not be reordered as a result of the sort.
+
+    The sorting algorithm is a modified mergesort (in which the merge is omitted if the highest element in the low sublist is less than the lowest element in the high sublist). This algorithm offers guaranteed n*log(n) performance.
+
+    Parameters:
+        a - the array to be sorted.
+        fromIndex - the index of the first element (inclusive) to be sorted.
+        toIndex - the index of the last element (exclusive) to be sorted.
+        c - the comparator to determine the order of the array. A null value indicates that the elements' natural ordering should be used. 
+    Throws:
+        ClassCastException - if the array contains elements that are not mutually comparable using the specified comparator. 
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+    See Also:
+        Comparator
+
+binarySearch
+
+public static int binarySearch(long[] a,
+                               long key)
+
+    Searches the specified array of longs for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(long[])
+
+binarySearch
+
+public static int binarySearch(int[] a,
+                               int key)
+
+    Searches the specified array of ints for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(int[])
+
+binarySearch
+
+public static int binarySearch(short[] a,
+                               short key)
+
+    Searches the specified array of shorts for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(short[])
+
+binarySearch
+
+public static int binarySearch(char[] a,
+                               char key)
+
+    Searches the specified array of chars for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(char[])
+
+binarySearch
+
+public static int binarySearch(byte[] a,
+                               byte key)
+
+    Searches the specified array of bytes for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(byte[])
+
+binarySearch
+
+public static int binarySearch(double[] a,
+                               double key)
+
+    Searches the specified array of doubles for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found. This method considers all NaN values to be equivalent and equal.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(double[])
+
+binarySearch
+
+public static int binarySearch(float[] a,
+                               float key)
+
+    Searches the specified array of floats for the specified value using the binary search algorithm. The array must be sorted (as by the sort method, above) prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements with the specified value, there is no guarantee which one will be found. This method considers all NaN values to be equivalent and equal.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found.
+    See Also:
+        sort(float[])
+
+binarySearch
+
+public static int binarySearch(Object[] a,
+                               Object key)
+
+    Searches the specified array for the specified object using the binary search algorithm. The array must be sorted into ascending order according to the natural ordering of its elements (as by Sort(Object[]), above) prior to making this call. If it is not sorted, the results are undefined. (If the array contains elements that are not mutually comparable (for example,strings and integers), it cannot be sorted according to the natural order of its elements, hence results are undefined.) If the array contains multiple elements equal to the specified object, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found. 
+    Throws:
+        ClassCastException - if the search key in not comparable to the elements of the array.
+    See Also:
+        Comparable, sort(Object[])
+
+binarySearch
+
+public static <T> int binarySearch(T[] a,
+                                   T key,
+                                   Comparator<? super T> c)
+
+    Searches the specified array for the specified object using the binary search algorithm. The array must be sorted into ascending order according to the specified comparator (as by the Sort(Object[], Comparator) method, above), prior to making this call. If it is not sorted, the results are undefined. If the array contains multiple elements equal to the specified object, there is no guarantee which one will be found.
+
+    Parameters:
+        a - the array to be searched.
+        key - the value to be searched for.
+        c - the comparator by which the array is ordered. A null value indicates that the elements' natural ordering should be used. 
+    Returns:
+        index of the search key, if it is contained in the list; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the list: the index of the first element greater than the key, or list.size(), if all elements in the list are less than the specified key. Note that this guarantees that the return value will be >= 0 if and only if the key is found. 
+    Throws:
+        ClassCastException - if the array contains elements that are not mutually comparable using the specified comparator, or the search key in not mutually comparable with the elements of the array using this comparator.
+    See Also:
+        Comparable, sort(Object[], Comparator)
+
+equals
+
+public static boolean equals(long[] a,
+                             long[] a2)
+
+    Returns true if the two specified arrays of longs are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(int[] a,
+                             int[] a2)
+
+    Returns true if the two specified arrays of ints are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(short[] a,
+                             short[] a2)
+
+    Returns true if the two specified arrays of shorts are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(char[] a,
+                             char[] a2)
+
+    Returns true if the two specified arrays of chars are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(byte[] a,
+                             byte[] a2)
+
+    Returns true if the two specified arrays of bytes are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(boolean[] a,
+                             boolean[] a2)
+
+    Returns true if the two specified arrays of booleans are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+equals
+
+public static boolean equals(double[] a,
+                             double[] a2)
+
+    Returns true if the two specified arrays of doubles are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Two doubles d1 and d2 are considered equal if:
+
+        new Double(d1).equals(new Double(d2))
+
+    (Unlike the == operator, this method considers NaN equals to itself, and 0.0d unequal to -0.0d.)
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+    See Also:
+        Double.equals(Object)
+
+equals
+
+public static boolean equals(float[] a,
+                             float[] a2)
+
+    Returns true if the two specified arrays of floats are equal to one another. Two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. In other words, two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Two floats f1 and f2 are considered equal if:
+
+        new Float(f1).equals(new Float(f2))
+
+    (Unlike the == operator, this method considers NaN equals to itself, and 0.0f unequal to -0.0f.)
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+    See Also:
+        Float.equals(Object)
+
+equals
+
+public static boolean equals(Object[] a,
+                             Object[] a2)
+
+    Returns true if the two specified arrays of Objects are equal to one another. The two arrays are considered equal if both arrays contain the same number of elements, and all corresponding pairs of elements in the two arrays are equal. Two objects e1 and e2 are considered equal if (e1==null ? e2==null : e1.equals(e2)). In other words, the two arrays are equal if they contain the same elements in the same order. Also, two array references are considered equal if both are null.
+
+    Parameters:
+        a - one array to be tested for equality.
+        a2 - the other array to be tested for equality. 
+    Returns:
+        true if the two arrays are equal.
+
+fill
+
+public static void fill(long[] a,
+                        long val)
+
+    Assigns the specified long value to each element of the specified array of longs.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(long[] a,
+                        int fromIndex,
+                        int toIndex,
+                        long val)
+
+    Assigns the specified long value to each element of the specified range of the specified array of longs. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(int[] a,
+                        int val)
+
+    Assigns the specified int value to each element of the specified array of ints.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(int[] a,
+                        int fromIndex,
+                        int toIndex,
+                        int val)
+
+    Assigns the specified int value to each element of the specified range of the specified array of ints. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(short[] a,
+                        short val)
+
+    Assigns the specified short value to each element of the specified array of shorts.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(short[] a,
+                        int fromIndex,
+                        int toIndex,
+                        short val)
+
+    Assigns the specified short value to each element of the specified range of the specified array of shorts. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(char[] a,
+                        char val)
+
+    Assigns the specified char value to each element of the specified array of chars.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(char[] a,
+                        int fromIndex,
+                        int toIndex,
+                        char val)
+
+    Assigns the specified char value to each element of the specified range of the specified array of chars. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(byte[] a,
+                        byte val)
+
+    Assigns the specified byte value to each element of the specified array of bytes.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(byte[] a,
+                        int fromIndex,
+                        int toIndex,
+                        byte val)
+
+    Assigns the specified byte value to each element of the specified range of the specified array of bytes. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(boolean[] a,
+                        boolean val)
+
+    Assigns the specified boolean value to each element of the specified array of booleans.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(boolean[] a,
+                        int fromIndex,
+                        int toIndex,
+                        boolean val)
+
+    Assigns the specified boolean value to each element of the specified range of the specified array of booleans. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(double[] a,
+                        double val)
+
+    Assigns the specified double value to each element of the specified array of doubles.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(double[] a,
+                        int fromIndex,
+                        int toIndex,
+                        double val)
+
+    Assigns the specified double value to each element of the specified range of the specified array of doubles. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(float[] a,
+                        float val)
+
+    Assigns the specified float value to each element of the specified array of floats.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(float[] a,
+                        int fromIndex,
+                        int toIndex,
+                        float val)
+
+    Assigns the specified float value to each element of the specified range of the specified array of floats. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+fill
+
+public static void fill(Object[] a,
+                        Object val)
+
+    Assigns the specified Object reference to each element of the specified array of Objects.
+
+    Parameters:
+        a - the array to be filled.
+        val - the value to be stored in all elements of the array.
+
+fill
+
+public static void fill(Object[] a,
+                        int fromIndex,
+                        int toIndex,
+                        Object val)
+
+    Assigns the specified Object reference to each element of the specified range of the specified array of Objects. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)
+
+    Parameters:
+        a - the array to be filled.
+        fromIndex - the index of the first element (inclusive) to be filled with the specified value.
+        toIndex - the index of the last element (exclusive) to be filled with the specified value.
+        val - the value to be stored in all elements of the array. 
+    Throws:
+        IllegalArgumentException - if fromIndex > toIndex 
+        ArrayIndexOutOfBoundsException - if fromIndex < 0 or toIndex > a.length
+
+asList
+
+public static <T> List<T> asList(T... a)
+
+    Returns a fixed-size list backed by the specified array. (Changes to the returned list "write through" to the array.) This method acts as bridge between array-based and collection-based APIs, in combination with Collection.toArray. The returned list is serializable and implements RandomAccess.
+
+    This method also provides a convenient way to create a fixed-size list initialized to contain several elements:
+
+         List stooges = Arrays.asList("Larry", "Moe", "Curly");
+     
+
+    Parameters:
+        a - the array by which the list will be backed. 
+    Returns:
+        a list view of the specified array.
+    See Also:
+        Collection.toArray()
+
+hashCode
+
+public static int hashCode(long[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two long arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Long instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(int[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two non-null int arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Integer instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(short[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two short arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Short instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(char[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two char arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Character instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(byte[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two byte arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Byte instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(boolean[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two boolean arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Boolean instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(float[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two float arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Float instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(double[] a)
+
+    Returns a hash code based on the contents of the specified array. For any two double arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is the same value that would be obtained by invoking the hashCode method on a List containing a sequence of Double instances representing the elements of a in the same order. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose hash value to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+
+hashCode
+
+public static int hashCode(Object[] a)
+
+    Returns a hash code based on the contents of the specified array. If the array contains other arrays as elements, the hash code is based on their identities rather than their contents. It is therefore acceptable to invoke this method on an array that contains itself as an element, either directly or indirectly through one or more levels of arrays.
+
+    For any two arrays a and b such that Arrays.equals(a, b), it is also the case that Arrays.hashCode(a) == Arrays.hashCode(b).
+
+    The value returned by this method is equal to the value that would be returned by Arrays.asList(a).hashCode(), unless a is null, in which case 0 is returned.
+
+    Parameters:
+        a - the array whose content-based hash code to compute 
+    Returns:
+        a content-based hash code for a
+    Since:
+        1.5
+    See Also:
+        deepHashCode(Object[])
+
+deepHashCode
+
+public static int deepHashCode(Object[] a)
+
+    Returns a hash code based on the "deep contents" of the specified array. If the array contains other arrays as elements, the hash code is based on their contents and so on, ad infinitum. It is therefore unacceptable to invoke this method on an array that contains itself as an element, either directly or indirectly through one or more levels of arrays. The behavior of such an invocation is undefined.
+
+    For any two arrays a and b such that Arrays.deepEquals(a, b), it is also the case that Arrays.deepHashCode(a) == Arrays.deepHashCode(b).
+
+    The computation of the value returned by this method is similar to that of the value returned by List.hashCode() on a list containing the same elements as a in the same order, with one difference: If an element e of a is itself an array, its hash code is computed not by calling e.hashCode(), but as by calling the appropriate overloading of Arrays.hashCode(e) if e is an array of a primitive type, or as by calling Arrays.deepHashCode(e) recursively if e is an array of a reference type. If a is null, this method returns 0.
+
+    Parameters:
+        a - the array whose deep-content-based hash code to compute 
+    Returns:
+        a deep-content-based hash code for a
+    Since:
+        1.5
+    See Also:
+        hashCode(Object[])
+
+deepEquals
+
+public static boolean deepEquals(Object[] a1,
+                                 Object[] a2)
+
+    Returns true if the two specified arrays are deeply equal to one another. Unlike the @link{#equals{Object[],Object[]) method, this method is appropriate for use with nested arrays of arbitrary depth.
+
+    Two array references are considered deeply equal if both are null, or if they refer to arrays that contain the same number of elements and all corresponding pairs of elements in the two arrays are deeply equal.
+
+    Two possibly null elements e1 and e2 are deeply equal if any of the following conditions hold:
+
+        * e1 and e2 are both arrays of object reference types, and Arrays.deepEquals(e1, e2) would return true
+        * e1 and e2 are arrays of the same primitive type, and the appropriate overloading of Arrays.equals(e1, e2) would return true.
+        * e1 == e2
+        * e1.equals(e2) would return true. 
+
+    Note that this definition permits null elements at any depth.
+
+    If either of the specified arrays contain themselves as elements either directly or indirectly through one or more levels of arrays, the behavior of this method is undefined.
+
+    Parameters:
+        a1 - one array to be tested for equality
+        a2 - the other array to be tested for equality 
+    Returns:
+        true if the two arrays are equal
+    Since:
+        1.5
+    See Also:
+        equals(Object[],Object[])
+
+toString
+
+public static String toString(long[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(long). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(int[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(int). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(short[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(short). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(char[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(char). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(byte[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(byte). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(boolean[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(boolean). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(float[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(float). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(double[] a)
+
+    Returns a string representation of the contents of the specified array. The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(double). Returns "null" if a is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+
+toString
+
+public static String toString(Object[] a)
+
+    Returns a string representation of the contents of the specified array. If the array contains other arrays as elements, they are converted to strings by the Object.toString() method inherited from Object, which describes their identities rather than their contents.
+
+    The value returned by this method is equal to the value that would be returned by Arrays.asList(a).toString(), unless a is null, in which case "null" is returned.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+    See Also:
+        deepToString(Object[])
+
+deepToString
+
+public static String deepToString(Object[] a)
+
+    Returns a string representation of the "deep contents" of the specified array. If the array contains other arrays as elements, the string representation contains their contents and so on. This method is designed for converting multidimensional arrays to strings.
+
+    The string representation consists of a list of the array's elements, enclosed in square brackets ("[]"). Adjacent elements are separated by the characters ", " (a comma followed by a space). Elements are converted to strings as by String.valueOf(Object), unless they are themselves arrays.
+
+    If an element e is an array of a primitive type, it is converted to a string as by invoking the appropriate overloading of Arrays.toString(e). If an element e is an array of a reference type, it is converted to a string as by invoking this method recursively.
+
+    To avoid infinite recursion, if the specified array contains itself as an element, or contains an indirect reference to itself through one or more levels of arrays, the self-reference is converted to the string "[...]". For example, an array containing only a reference to itself would be rendered as "[[...]]".
+
+    This method returns "null" if the specified array is null.
+
+    Parameters:
+        a - the array whose string representation to return 
+    Returns:
+        a string representation of a
+    Since:
+        1.5
+    See Also:
+        toString(Object[])
+
+Overview  	Package  	 Class  	Use  	Tree  	Deprecated  	Index  	Help 
+	JavaTM 2 Platform
+Standard Ed. 5.0
+ PREV CLASS   NEXT CLASS 	FRAMES    NO FRAMES    
+SUMMARY: NESTED | FIELD | CONSTR | METHOD 	DETAIL: FIELD | CONSTR | METHOD
+Submit a bug or feature
+For further API reference and developer documentation, see Java 2 SDK SE Developer Documentation. That documentation contains more detailed, developer-targeted descriptions, with conceptual overviews, definitions of terms, workarounds, and working code examples.
+
+Copyright 2004 Sun Microsystems, Inc. All rights reserved. Use is subject to license terms. Also see the documentation redistribution policy. 
+
+a.util
+Class Hashtable<K,V>
+
+java.lang.Object
+  extended by java.util.Dictionary<K,V>
+      extended by java.util.Hashtable<K,V>
+
+All Implemented Interfaces:
+    Serializable, Cloneable, Map<K,V>
+
+Direct Known Subclasses:
+    Properties, UIDefaults
+
+public class Hashtable<K,V>
+extends Dictionary<K,V>
+implements Map<K,V>, Cloneable, Serializable
+
+This class implements a hashtable, which maps keys to values. Any non-null object can be used as a key or as a value.
+
+To successfully store and retrieve objects from a hashtable, the objects used as keys must implement the hashCode method and the equals method.
+
+An instance of Hashtable has two parameters that affect its performance: initial capacity and load factor. The capacity is the number of buckets in the hash table, and the initial capacity is simply the capacity at the time the hash table is created. Note that the hash table is open: in the case of a "hash collision", a single bucket stores multiple entries, which must be searched sequentially. The load factor is a measure of how full the hash table is allowed to get before its capacity is automatically increased. The initial capacity and load factor parameters are merely hints to the implementation. The exact details as to when and whether the rehash method is invoked are implementation-dependent.
+
+Generally, the default load factor (.75) offers a good tradeoff between time and space costs. Higher values decrease the space overhead but increase the time cost to look up an entry (which is reflected in most Hashtable operations, including get and put).
+
+The initial capacity controls a tradeoff between wasted space and the need for rehash operations, which are time-consuming. No rehash operations will ever occur if the initial capacity is greater than the maximum number of entries the Hashtable will contain divided by its load factor. However, setting the initial capacity too high can waste space.
+
+If many entries are to be made into a Hashtable, creating it with a sufficiently large capacity may allow the entries to be inserted more efficiently than letting it perform automatic rehashing as needed to grow the table.
+
+This example creates a hashtable of numbers. It uses the names of the numbers as keys:
+
+         Hashtable numbers = new Hashtable();
+         numbers.put("one", new Integer(1));
+         numbers.put("two", new Integer(2));
+         numbers.put("three", new Integer(3));
+     
+
+To retrieve a number, use the following code:
+
+         Integer n = (Integer)numbers.get("two");
+         if (n != null) {
+             System.out.println("two = " + n);
+         }
+     
+
+As of the Java 2 platform v1.2, this class has been retrofitted to implement Map, so that it becomes a part of Java's collection framework. Unlike the new collection implementations, Hashtable is synchronized.
+
+The Iterators returned by the iterator and listIterator methods of the Collections returned by all of Hashtable's "collection view methods" are fail-fast: if the Hashtable is structurally modified at any time after the Iterator is created, in any way except through the Iterator's own remove or add methods, the Iterator will throw a ConcurrentModificationException. Thus, in the face of concurrent modification, the Iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future. The Enumerations returned by Hashtable's keys and values methods are not fail-fast.
+
+Note that the fail-fast behavior of an iterator cannot be guaranteed as it is, generally speaking, impossible to make any hard guarantees in the presence of unsynchronized concurrent modification. Fail-fast iterators throw ConcurrentModificationException on a best-effort basis. Therefore, it would be wrong to write a program that depended on this exception for its correctness: the fail-fast behavior of iterators should be used only to detect bugs.
+
+This class is a member of the Java Collections Framework.
+
+Since:
+    JDK1.0
+See Also:
+    Object.equals(java.lang.Object), Object.hashCode(), rehash(), Collection, Map, HashMap, TreeMap, Serialized Form
+
+Constructor Summary
+Hashtable()
+          Constructs a new, empty hashtable with a default initial capacity (11) and load factor, which is 0.75.
+Hashtable(int initialCapacity)
+          Constructs a new, empty hashtable with the specified initial capacity and default load factor, which is 0.75.
+Hashtable(int initialCapacity, float loadFactor)
+          Constructs a new, empty hashtable with the specified initial capacity and the specified load factor.
+Hashtable(Map<? extends K,? extends V> t)
+          Constructs a new hashtable with the same mappings as the given Map.
+ 
+Method Summary
+ void 	clear()
+          Clears this hashtable so that it contains no keys.
+ Object 	clone()
+          Creates a shallow copy of this hashtable.
+ boolean 	contains(Object value)
+          Tests if some key maps into the specified value in this hashtable.
+ boolean 	containsKey(Object key)
+          Tests if the specified object is a key in this hashtable.
+ boolean 	containsValue(Object value)
+          Returns true if this Hashtable maps one or more keys to this value.
+ Enumeration<V> 	elements()
+          Returns an enumeration of the values in this hashtable.
+ Set<Map.Entry<K,V>> 	entrySet()
+          Returns a Set view of the entries contained in this Hashtable.
+ boolean 	equals(Object o)
+          Compares the specified Object with this Map for equality, as per the definition in the Map interface.
+ V 	get(Object key)
+          Returns the value to which the specified key is mapped in this hashtable.
+ int 	hashCode()
+          Returns the hash code value for this Map as per the definition in the Map interface.
+ boolean 	isEmpty()
+          Tests if this hashtable maps no keys to values.
+ Enumeration<K> 	keys()
+          Returns an enumeration of the keys in this hashtable.
+ Set<K> 	keySet()
+          Returns a Set view of the keys contained in this Hashtable.
+ V 	put(K key, V value)
+          Maps the specified key to the specified value in this hashtable.
+ void 	putAll(Map<? extends K,? extends V> t)
+          Copies all of the mappings from the specified Map to this Hashtable These mappings will replace any mappings that this Hashtable had for any of the keys currently in the specified Map.
+protected  void 	rehash()
+          Increases the capacity of and internally reorganizes this hashtable, in order to accommodate and access its entries more efficiently.
+ V 	remove(Object key)
+          Removes the key (and its corresponding value) from this hashtable.
+ int 	size()
+          Returns the number of keys in this hashtable.
+ String 	toString()
+          Returns a string representation of this Hashtable object in the form of a set of entries, enclosed in braces and separated by the ASCII characters ", " (comma and space).
+ Collection<V> 	values()
+          Returns a Collection view of the values contained in this Hashtable.
+ 
+Methods inherited from class java.lang.Object
+finalize, getClass, notify, notifyAll, wait, wait, wait
+ 
+
+Constructor Detail
+Hashtable
+
+public Hashtable(int initialCapacity,
+                 float loadFactor)
+
+    Constructs a new, empty hashtable with the specified initial capacity and the specified load factor.
+
+    Parameters:
+        initialCapacity - the initial capacity of the hashtable.
+        loadFactor - the load factor of the hashtable. 
+    Throws:
+        IllegalArgumentException - if the initial capacity is less than zero, or if the load factor is nonpositive.
+
+Hashtable
+
+public Hashtable(int initialCapacity)
+
+    Constructs a new, empty hashtable with the specified initial capacity and default load factor, which is 0.75.
+
+    Parameters:
+        initialCapacity - the initial capacity of the hashtable. 
+    Throws:
+        IllegalArgumentException - if the initial capacity is less than zero.
+
+Hashtable
+
+public Hashtable()
+
+    Constructs a new, empty hashtable with a default initial capacity (11) and load factor, which is 0.75.
+
+Hashtable
+
+public Hashtable(Map<? extends K,? extends V> t)
+
+    Constructs a new hashtable with the same mappings as the given Map. The hashtable is created with an initial capacity sufficient to hold the mappings in the given Map and a default load factor, which is 0.75.
+
+    Parameters:
+        t - the map whose mappings are to be placed in this map. 
+    Throws:
+        NullPointerException - if the specified map is null.
+    Since:
+        1.2
+
+Method Detail
+size
+
+public int size()
+
+    Returns the number of keys in this hashtable.
+
+    Specified by:
+        size in interface Map<K,V>
+    Specified by:
+        size in class Dictionary<K,V>
+
+    Returns:
+        the number of keys in this hashtable.
+
+isEmpty
+
+public boolean isEmpty()
+
+    Tests if this hashtable maps no keys to values.
+
+    Specified by:
+        isEmpty in interface Map<K,V>
+    Specified by:
+        isEmpty in class Dictionary<K,V>
+
+    Returns:
+        true if this hashtable maps no keys to values; false otherwise.
+
+keys
+
+public Enumeration<K> keys()
+
+    Returns an enumeration of the keys in this hashtable.
+
+    Specified by:
+        keys in class Dictionary<K,V>
+
+    Returns:
+        an enumeration of the keys in this hashtable.
+    See Also:
+        Enumeration, elements(), keySet(), Map
+
+elements
+
+public Enumeration<V> elements()
+
+    Returns an enumeration of the values in this hashtable. Use the Enumeration methods on the returned object to fetch the elements sequentially.
+
+    Specified by:
+        elements in class Dictionary<K,V>
+
+    Returns:
+        an enumeration of the values in this hashtable.
+    See Also:
+        Enumeration, keys(), values(), Map
+
+contains
+
+public boolean contains(Object value)
+
+    Tests if some key maps into the specified value in this hashtable. This operation is more expensive than the containsKey method.
+
+    Note that this method is identical in functionality to containsValue, (which is part of the Map interface in the collections framework).
+
+    Parameters:
+        value - a value to search for. 
+    Returns:
+        true if and only if some key maps to the value argument in this hashtable as determined by the equals method; false otherwise. 
+    Throws:
+        NullPointerException - if the value is null.
+    See Also:
+        containsKey(Object), containsValue(Object), Map
+
+containsValue
+
+public boolean containsValue(Object value)
+
+    Returns true if this Hashtable maps one or more keys to this value.
+
+    Note that this method is identical in functionality to contains (which predates the Map interface).
+
+    Specified by:
+        containsValue in interface Map<K,V>
+
+    Parameters:
+        value - value whose presence in this Hashtable is to be tested. 
+    Returns:
+        true if this map maps one or more keys to the specified value. 
+    Throws:
+        NullPointerException - if the value is null.
+    Since:
+        1.2
+    See Also:
+        Map
+
+containsKey
+
+public boolean containsKey(Object key)
+
+    Tests if the specified object is a key in this hashtable.
+
+    Specified by:
+        containsKey in interface Map<K,V>
+
+    Parameters:
+        key - possible key. 
+    Returns:
+        true if and only if the specified object is a key in this hashtable, as determined by the equals method; false otherwise. 
+    Throws:
+        NullPointerException - if the key is null.
+    See Also:
+        contains(Object)
+
+get
+
+public V get(Object key)
+
+    Returns the value to which the specified key is mapped in this hashtable.
+
+    Specified by:
+        get in interface Map<K,V>
+    Specified by:
+        get in class Dictionary<K,V>
+
+    Parameters:
+        key - a key in the hashtable. 
+    Returns:
+        the value to which the key is mapped in this hashtable; null if the key is not mapped to any value in this hashtable. 
+    Throws:
+        NullPointerException - if the key is null.
+    See Also:
+        put(Object, Object)
+
+rehash
+
+protected void rehash()
+
+    Increases the capacity of and internally reorganizes this hashtable, in order to accommodate and access its entries more efficiently. This method is called automatically when the number of keys in the hashtable exceeds this hashtable's capacity and load factor.
+
+put
+
+public V put(K key,
+             V value)
+
+    Maps the specified key to the specified value in this hashtable. Neither the key nor the value can be null.
+
+    The value can be retrieved by calling the get method with a key that is equal to the original key.
+
+    Specified by:
+        put in interface Map<K,V>
+    Specified by:
+        put in class Dictionary<K,V>
+
+    Parameters:
+        key - the hashtable key.
+        value - the value. 
+    Returns:
+        the previous value of the specified key in this hashtable, or null if it did not have one. 
+    Throws:
+        NullPointerException - if the key or value is null.
+    See Also:
+        Object.equals(Object), get(Object)
+
+remove
+
+public V remove(Object key)
+
+    Removes the key (and its corresponding value) from this hashtable. This method does nothing if the key is not in the hashtable.
+
+    Specified by:
+        remove in interface Map<K,V>
+    Specified by:
+        remove in class Dictionary<K,V>
+
+    Parameters:
+        key - the key that needs to be removed. 
+    Returns:
+        the value to which the key had been mapped in this hashtable, or null if the key did not have a mapping. 
+    Throws:
+        NullPointerException - if the key is null.
+
+putAll
+
+public void putAll(Map<? extends K,? extends V> t)
+
+    Copies all of the mappings from the specified Map to this Hashtable These mappings will replace any mappings that this Hashtable had for any of the keys currently in the specified Map.
+
+    Specified by:
+        putAll in interface Map<K,V>
+
+    Parameters:
+        t - Mappings to be stored in this map. 
+    Throws:
+        NullPointerException - if the specified map is null.
+    Since:
+        1.2
+
+clear
+
+public void clear()
+
+    Clears this hashtable so that it contains no keys.
+
+    Specified by:
+        clear in interface Map<K,V>
+
+clone
+
+public Object clone()
+
+    Creates a shallow copy of this hashtable. All the structure of the hashtable itself is copied, but the keys and values are not cloned. This is a relatively expensive operation.
+
+    Overrides:
+        clone in class Object
+
+    Returns:
+        a clone of the hashtable.
+    See Also:
+        Cloneable
+
+toString
+
+public String toString()
+
+    Returns a string representation of this Hashtable object in the form of a set of entries, enclosed in braces and separated by the ASCII characters ", " (comma and space). Each entry is rendered as the key, an equals sign =, and the associated element, where the toString method is used to convert the key and element to strings.
+
+    Overrides to toString method of Object.
+
+    Overrides:
+        toString in class Object
+
+    Returns:
+        a string representation of this hashtable.
+
+keySet
+
+public Set<K> keySet()
+
+    Returns a Set view of the keys contained in this Hashtable. The Set is backed by the Hashtable, so changes to the Hashtable are reflected in the Set, and vice-versa. The Set supports element removal (which removes the corresponding entry from the Hashtable), but not element addition.
+
+    Specified by:
+        keySet in interface Map<K,V>
+
+    Returns:
+        a set view of the keys contained in this map.
+    Since:
+        1.2
+
+entrySet
+
+public Set<Map.Entry<K,V>> entrySet()
+
+    Returns a Set view of the entries contained in this Hashtable. Each element in this collection is a Map.Entry. The Set is backed by the Hashtable, so changes to the Hashtable are reflected in the Set, and vice-versa. The Set supports element removal (which removes the corresponding entry from the Hashtable), but not element addition.
+
+    Specified by:
+        entrySet in interface Map<K,V>
+
+    Returns:
+        a set view of the mappings contained in this map.
+    Since:
+        1.2
+    See Also:
+        Map.Entry
+
+values
+
+public Collection<V> values()
+
+    Returns a Collection view of the values contained in this Hashtable. The Collection is backed by the Hashtable, so changes to the Hashtable are reflected in the Collection, and vice-versa. The Collection supports element removal (which removes the corresponding entry from the Hashtable), but not element addition.
+
+    Specified by:
+        values in interface Map<K,V>
+
+    Returns:
+        a collection view of the values contained in this map.
+    Since:
+        1.2
+
+equals
+
+public boolean equals(Object o)
+
+    Compares the specified Object with this Map for equality, as per the definition in the Map interface.
+
+    Specified by:
+        equals in interface Map<K,V>
+    Overrides:
+        equals in class Object
+
+    Parameters:
+        o - object to be compared for equality with this Hashtable 
+    Returns:
+        true if the specified Object is equal to this Map.
+    Since:
+        1.2
+    See Also:
+        Map.equals(Object)
+
+hashCode
+
+public int hashCode()
+
+    Returns the hash code value for this Map as per the definition in the Map interface.
+
+    Specified by:
+        hashCode in interface Map<K,V>
+    Overrides:
+        hashCode in class Object
+
+    Returns:
+        a hash code value for this object.
+    Since:
+        1.2
+    See Also:
+        Map.hashCode()
+
+
+Class HashMap<K,V>
+
+java.lang.Object
+  extended by java.util.AbstractMap<K,V>
+      extended by java.util.HashMap<K,V>
+
+All Implemented Interfaces:
+    Serializable, Cloneable, Map<K,V>
+
+Direct Known Subclasses:
+    LinkedHashMap, PrinterStateReasons
+
+public class HashMap<K,V>
+extends AbstractMap<K,V>
+implements Map<K,V>, Cloneable, Serializable
+
+Hash table based implementation of the Map interface. This implementation provides all of the optional map operations, and permits null values and the null key. (The HashMap class is roughly equivalent to Hashtable, except that it is unsynchronized and permits nulls.) This class makes no guarantees as to the order of the map; in particular, it does not guarantee that the order will remain constant over time.
+
+This implementation provides constant-time performance for the basic operations (get and put), assuming the hash function disperses the elements properly among the buckets. Iteration over collection views requires time proportional to the "capacity" of the HashMap instance (the number of buckets) plus its size (the number of key-value mappings). Thus, it's very important not to set the initial capacity too high (or the load factor too low) if iteration performance is important.
+
+An instance of HashMap has two parameters that affect its performance: initial capacity and load factor. The capacity is the number of buckets in the hash table, and the initial capacity is simply the capacity at the time the hash table is created. The load factor is a measure of how full the hash table is allowed to get before its capacity is automatically increased. When the number of entries in the hash table exceeds the product of the load factor and the current capacity, the capacity is roughly doubled by calling the rehash method.
+
+As a general rule, the default load factor (.75) offers a good tradeoff between time and space costs. Higher values decrease the space overhead but increase the lookup cost (reflected in most of the operations of the HashMap class, including get and put). The expected number of entries in the map and its load factor should be taken into account when setting its initial capacity, so as to minimize the number of rehash operations. If the initial capacity is greater than the maximum number of entries divided by the load factor, no rehash operations will ever occur.
+
+If many mappings are to be stored in a HashMap instance, creating it with a sufficiently large capacity will allow the mappings to be stored more efficiently than letting it perform automatic rehashing as needed to grow the table.
+
+Note that this implementation is not synchronized. If multiple threads access this map concurrently, and at least one of the threads modifies the map structurally, it must be synchronized externally. (A structural modification is any operation that adds or deletes one or more mappings; merely changing the value associated with a key that an instance already contains is not a structural modification.) This is typically accomplished by synchronizing on some object that naturally encapsulates the map. If no such object exists, the map should be "wrapped" using the Collections.synchronizedMap method. This is best done at creation time, to prevent accidental unsynchronized access to the map:
+
+ Map m = Collections.synchronizedMap(new HashMap(...));
+ 
+
+The iterators returned by all of this class's "collection view methods" are fail-fast: if the map is structurally modified at any time after the iterator is created, in any way except through the iterator's own remove or add methods, the iterator will throw a ConcurrentModificationException. Thus, in the face of concurrent modification, the iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future.
+
+Note that the fail-fast behavior of an iterator cannot be guaranteed as it is, generally speaking, impossible to make any hard guarantees in the presence of unsynchronized concurrent modification. Fail-fast iterators throw ConcurrentModificationException on a best-effort basis. Therefore, it would be wrong to write a program that depended on this exception for its correctness: the fail-fast behavior of iterators should be used only to detect bugs.
+
+This class is a member of the Java Collections Framework.
+
+Since:
+    1.2
+See Also:
+    Object.hashCode(), Collection, Map, TreeMap, Hashtable, Serialized Form
+
+Constructor Summary
+HashMap()
+          Constructs an empty HashMap with the default initial capacity (16) and the default load factor (0.75).
+HashMap(int initialCapacity)
+          Constructs an empty HashMap with the specified initial capacity and the default load factor (0.75).
+HashMap(int initialCapacity, float loadFactor)
+          Constructs an empty HashMap with the specified initial capacity and load factor.
+HashMap(Map<? extends K,? extends V> m)
+          Constructs a new HashMap with the same mappings as the specified Map.
+ 
+Method Summary
+ void 	clear()
+          Removes all mappings from this map.
+ Object 	clone()
+          Returns a shallow copy of this HashMap instance: the keys and values themselves are not cloned.
+ boolean 	containsKey(Object key)
+          Returns true if this map contains a mapping for the specified key.
+ boolean 	containsValue(Object value)
+          Returns true if this map maps one or more keys to the specified value.
+ Set<Map.Entry<K,V>> 	entrySet()
+          Returns a collection view of the mappings contained in this map.
+ V 	get(Object key)
+          Returns the value to which the specified key is mapped in this identity hash map, or null if the map contains no mapping for this key.
+ boolean 	isEmpty()
+          Returns true if this map contains no key-value mappings.
+ Set<K> 	keySet()
+          Returns a set view of the keys contained in this map.
+ V 	put(K key, V value)
+          Associates the specified value with the specified key in this map.
+ void 	putAll(Map<? extends K,? extends V> m)
+          Copies all of the mappings from the specified map to this map These mappings will replace any mappings that this map had for any of the keys currently in the specified map.
+ V 	remove(Object key)
+          Removes the mapping for this key from this map if present.
+ int 	size()
+          Returns the number of key-value mappings in this map.
+ Collection<V> 	values()
+          Returns a collection view of the values contained in this map.
+ 
+Methods inherited from class java.util.AbstractMap
+equals, hashCode, toString
+ 
+Methods inherited from class java.lang.Object
+finalize, getClass, notify, notifyAll, wait, wait, wait
+ 
+Methods inherited from interface java.util.Map
+equals, hashCode
+ 
+
+Constructor Detail
+HashMap
+
+public HashMap(int initialCapacity,
+               float loadFactor)
+
+    Constructs an empty HashMap with the specified initial capacity and load factor.
+
+    Parameters:
+        initialCapacity - The initial capacity.
+        loadFactor - The load factor. 
+    Throws:
+        IllegalArgumentException - if the initial capacity is negative or the load factor is nonpositive.
+
+HashMap
+
+public HashMap(int initialCapacity)
+
+    Constructs an empty HashMap with the specified initial capacity and the default load factor (0.75).
+
+    Parameters:
+        initialCapacity - the initial capacity. 
+    Throws:
+        IllegalArgumentException - if the initial capacity is negative.
+
+HashMap
+
+public HashMap()
+
+    Constructs an empty HashMap with the default initial capacity (16) and the default load factor (0.75).
+
+HashMap
+
+public HashMap(Map<? extends K,? extends V> m)
+
+    Constructs a new HashMap with the same mappings as the specified Map. The HashMap is created with default load factor (0.75) and an initial capacity sufficient to hold the mappings in the specified Map.
+
+    Parameters:
+        m - the map whose mappings are to be placed in this map. 
+    Throws:
+        NullPointerException - if the specified map is null.
+
+Method Detail
+size
+
+public int size()
+
+    Returns the number of key-value mappings in this map.
+
+    Specified by:
+        size in interface Map<K,V>
+    Overrides:
+        size in class AbstractMap<K,V>
+
+    Returns:
+        the number of key-value mappings in this map.
+
+isEmpty
+
+public boolean isEmpty()
+
+    Returns true if this map contains no key-value mappings.
+
+    Specified by:
+        isEmpty in interface Map<K,V>
+    Overrides:
+        isEmpty in class AbstractMap<K,V>
+
+    Returns:
+        true if this map contains no key-value mappings.
+
+get
+
+public V get(Object key)
+
+    Returns the value to which the specified key is mapped in this identity hash map, or null if the map contains no mapping for this key. A return value of null does not necessarily indicate that the map contains no mapping for the key; it is also possible that the map explicitly maps the key to null. The containsKey method may be used to distinguish these two cases.
+
+    Specified by:
+        get in interface Map<K,V>
+    Overrides:
+        get in class AbstractMap<K,V>
+
+    Parameters:
+        key - the key whose associated value is to be returned. 
+    Returns:
+        the value to which this map maps the specified key, or null if the map contains no mapping for this key.
+    See Also:
+        put(Object, Object)
+
+containsKey
+
+public boolean containsKey(Object key)
+
+    Returns true if this map contains a mapping for the specified key.
+
+    Specified by:
+        containsKey in interface Map<K,V>
+    Overrides:
+        containsKey in class AbstractMap<K,V>
+
+    Parameters:
+        key - The key whose presence in this map is to be tested 
+    Returns:
+        true if this map contains a mapping for the specified key.
+
+put
+
+public V put(K key,
+             V value)
+
+    Associates the specified value with the specified key in this map. If the map previously contained a mapping for this key, the old value is replaced.
+
+    Specified by:
+        put in interface Map<K,V>
+    Overrides:
+        put in class AbstractMap<K,V>
+
+    Parameters:
+        key - key with which the specified value is to be associated.
+        value - value to be associated with the specified key. 
+    Returns:
+        previous value associated with specified key, or null if there was no mapping for key. A null return can also indicate that the HashMap previously associated null with the specified key.
+
+putAll
+
+public void putAll(Map<? extends K,? extends V> m)
+
+    Copies all of the mappings from the specified map to this map These mappings will replace any mappings that this map had for any of the keys currently in the specified map.
+
+    Specified by:
+        putAll in interface Map<K,V>
+    Overrides:
+        putAll in class AbstractMap<K,V>
+
+    Parameters:
+        m - mappings to be stored in this map. 
+    Throws:
+        NullPointerException - if the specified map is null.
+
+remove
+
+public V remove(Object key)
+
+    Removes the mapping for this key from this map if present.
+
+    Specified by:
+        remove in interface Map<K,V>
+    Overrides:
+        remove in class AbstractMap<K,V>
+
+    Parameters:
+        key - key whose mapping is to be removed from the map. 
+    Returns:
+        previous value associated with specified key, or null if there was no mapping for key. A null return can also indicate that the map previously associated null with the specified key.
+
+clear
+
+public void clear()
+
+    Removes all mappings from this map.
+
+    Specified by:
+        clear in interface Map<K,V>
+    Overrides:
+        clear in class AbstractMap<K,V>
+
+containsValue
+
+public boolean containsValue(Object value)
+
+    Returns true if this map maps one or more keys to the specified value.
+
+    Specified by:
+        containsValue in interface Map<K,V>
+    Overrides:
+        containsValue in class AbstractMap<K,V>
+
+    Parameters:
+        value - value whose presence in this map is to be tested. 
+    Returns:
+        true if this map maps one or more keys to the specified value.
+
+clone
+
+public Object clone()
+
+    Returns a shallow copy of this HashMap instance: the keys and values themselves are not cloned.
+
+    Overrides:
+        clone in class AbstractMap<K,V>
+
+    Returns:
+        a shallow copy of this map.
+    See Also:
+        Cloneable
+
+keySet
+
+public Set<K> keySet()
+
+    Returns a set view of the keys contained in this map. The set is backed by the map, so changes to the map are reflected in the set, and vice-versa. The set supports element removal, which removes the corresponding mapping from this map, via the Iterator.remove, Set.remove, removeAll, retainAll, and clear operations. It does not support the add or addAll operations.
+
+    Specified by:
+        keySet in interface Map<K,V>
+    Overrides:
+        keySet in class AbstractMap<K,V>
+
+    Returns:
+        a set view of the keys contained in this map.
+
+values
+
+public Collection<V> values()
+
+    Returns a collection view of the values contained in this map. The collection is backed by the map, so changes to the map are reflected in the collection, and vice-versa. The collection supports element removal, which removes the corresponding mapping from this map, via the Iterator.remove, Collection.remove, removeAll, retainAll, and clear operations. It does not support the add or addAll operations.
+
+    Specified by:
+        values in interface Map<K,V>
+    Overrides:
+        values in class AbstractMap<K,V>
+
+    Returns:
+        a collection view of the values contained in this map.
+
+entrySet
+
+public Set<Map.Entry<K,V>> entrySet()
+
+    Returns a collection view of the mappings contained in this map. Each element in the returned collection is a Map.Entry. The collection is backed by the map, so changes to the map are reflected in the collection, and vice-versa. The collection supports element removal, which removes the corresponding mapping from the map, via the Iterator.remove, Collection.remove, removeAll, retainAll, and clear operations. It does not support the add or addAll operations.
+
+    Specified by:
+        entrySet in interface Map<K,V>
+    Specified by:
+        entrySet in class AbstractMap<K,V>
+
+    Returns:
+        a collection view of the mappings contained in this map.
+    See Also:
+        Map.Entry
+
+java.lang
+Class Math
+
+java.lang.Object
+  extended by java.lang.Math
+
+public final class Math
+extends Object
+
+The class Math contains methods for performing basic numeric operations such as the elementary exponential, logarithm, square root, and trigonometric functions.
+
+Unlike some of the numeric methods of class StrictMath, all implementations of the equivalent functions of class Math are not defined to return the bit-for-bit same results. This relaxation permits better-performing implementations where strict reproducibility is not required.
+
+By default many of the Math methods simply call the equivalent method in StrictMath for their implementation. Code generators are encouraged to use platform-specific native libraries or microprocessor instructions, where available, to provide higher-performance implementations of Math methods. Such higher-performance implementations still must conform to the specification for Math.
+
+The quality of implementation specifications concern two properties, accuracy of the returned result and monotonicity of the method. Accuracy of the floating-point Math methods is measured in terms of ulps, units in the last place. For a given floating-point format, an ulp of a specific real number value is the distance between the two floating-point values bracketing that numerical value. When discussing the accuracy of a method as a whole rather than at a specific argument, the number of ulps cited is for the worst-case error at any argument. If a method always has an error less than 0.5 ulps, the method always returns the floating-point number nearest the exact result; such a method is correctly rounded. A correctly rounded method is generally the best a floating-point approximation can be; however, it is impractical for many floating-point methods to be correctly rounded. Instead, for the Math class, a larger error bound of 1 or 2 ulps is allowed for certain methods. Informally, with a 1 ulp error bound, when the exact result is a representable number, the exact result should be returned as the computed result; otherwise, either of the two floating-point values which bracket the exact result may be returned. For exact results large in magnitude, one of the endpoints of the bracket may be infinite. Besides accuracy at individual arguments, maintaining proper relations between the method at different arguments is also important. Therefore, most methods with more than 0.5 ulp errors are required to be semi-monotonic: whenever the mathematical function is non-decreasing, so is the floating-point approximation, likewise, whenever the mathematical function is non-increasing, so is the floating-point approximation. Not all approximations that have 1 ulp accuracy will automatically meet the monotonicity requirements.
+
+Since:
+    JDK1.0
+
+Field Summary
+static double 	E
+          The double value that is closer than any other to e, the base of the natural logarithms.
+static double 	PI
+          The double value that is closer than any other to pi, the ratio of the circumference of a circle to its diameter.
+ 
+Method Summary
+static double 	abs(double a)
+          Returns the absolute value of a double value.
+static float 	abs(float a)
+          Returns the absolute value of a float value.
+static int 	abs(int a)
+          Returns the absolute value of an int value.
+static long 	abs(long a)
+          Returns the absolute value of a long value.
+static double 	acos(double a)
+          Returns the arc cosine of an angle, in the range of 0.0 through pi.
+static double 	asin(double a)
+          Returns the arc sine of an angle, in the range of -pi/2 through pi/2.
+static double 	atan(double a)
+          Returns the arc tangent of an angle, in the range of -pi/2 through pi/2.
+static double 	atan2(double y, double x)
+          Converts rectangular coordinates (x, y) to polar (r, theta).
+static double 	cbrt(double a)
+          Returns the cube root of a double value.
+static double 	ceil(double a)
+          Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.
+static double 	cos(double a)
+          Returns the trigonometric cosine of an angle.
+static double 	cosh(double x)
+          Returns the hyperbolic cosine of a double value.
+static double 	exp(double a)
+          Returns Euler's number e raised to the power of a double value.
+static double 	expm1(double x)
+          Returns ex -1.
+static double 	floor(double a)
+          Returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.
+static double 	hypot(double x, double y)
+          Returns sqrt(x2 +y2) without intermediate overflow or underflow.
+static double 	IEEEremainder(double f1, double f2)
+          Computes the remainder operation on two arguments as prescribed by the IEEE 754 standard.
+static double 	log(double a)
+          Returns the natural logarithm (base e) of a double value.
+static double 	log10(double a)
+          Returns the base 10 logarithm of a double value.
+static double 	log1p(double x)
+          Returns the natural logarithm of the sum of the argument and 1.
+static double 	max(double a, double b)
+          Returns the greater of two double values.
+static float 	max(float a, float b)
+          Returns the greater of two float values.
+static int 	max(int a, int b)
+          Returns the greater of two int values.
+static long 	max(long a, long b)
+          Returns the greater of two long values.
+static double 	min(double a, double b)
+          Returns the smaller of two double values.
+static float 	min(float a, float b)
+          Returns the smaller of two float values.
+static int 	min(int a, int b)
+          Returns the smaller of two int values.
+static long 	min(long a, long b)
+          Returns the smaller of two long values.
+static double 	pow(double a, double b)
+          Returns the value of the first argument raised to the power of the second argument.
+static double 	random()
+          Returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0.
+static double 	rint(double a)
+          Returns the double value that is closest in value to the argument and is equal to a mathematical integer.
+static long 	round(double a)
+          Returns the closest long to the argument.
+static int 	round(float a)
+          Returns the closest int to the argument.
+static double 	signum(double d)
+          Returns the signum function of the argument; zero if the argument is zero, 1.0 if the argument is greater than zero, -1.0 if the argument is less than zero.
+static float 	signum(float f)
+          Returns the signum function of the argument; zero if the argument is zero, 1.0f if the argument is greater than zero, -1.0f if the argument is less than zero.
+static double 	sin(double a)
+          Returns the trigonometric sine of an angle.
+static double 	sinh(double x)
+          Returns the hyperbolic sine of a double value.
+static double 	sqrt(double a)
+          Returns the correctly rounded positive square root of a double value.
+static double 	tan(double a)
+          Returns the trigonometric tangent of an angle.
+static double 	tanh(double x)
+          Returns the hyperbolic tangent of a double value.
+static double 	toDegrees(double angrad)
+          Converts an angle measured in radians to an approximately equivalent angle measured in degrees.
+static double 	toRadians(double angdeg)
+          Converts an angle measured in degrees to an approximately equivalent angle measured in radians.
+static double 	ulp(double d)
+          Returns the size of an ulp of the argument.
+static float 	ulp(float f)
+          Returns the size of an ulp of the argument.
+ 
+Methods inherited from class java.lang.Object
+clone, equals, finalize, getClass, hashCode, notify, notifyAll, toString, wait, wait, wait
+ 
+
+Field Detail
+E
+
+public static final double E
+
+    The double value that is closer than any other to e, the base of the natural logarithms.
+
+    See Also:
+        Constant Field Values
+
+PI
+
+public static final double PI
+
+    The double value that is closer than any other to pi, the ratio of the circumference of a circle to its diameter.
+
+    See Also:
+        Constant Field Values
+
+Method Detail
+sin
+
+public static double sin(double a)
+
+    Returns the trigonometric sine of an angle. Special cases:
+
+        * If the argument is NaN or an infinity, then the result is NaN.
+        * If the argument is zero, then the result is a zero with the same sign as the argument.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - an angle, in radians. 
+    Returns:
+        the sine of the argument.
+
+cos
+
+public static double cos(double a)
+
+    Returns the trigonometric cosine of an angle. Special cases:
+
+        * If the argument is NaN or an infinity, then the result is NaN.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - an angle, in radians. 
+    Returns:
+        the cosine of the argument.
+
+tan
+
+public static double tan(double a)
+
+    Returns the trigonometric tangent of an angle. Special cases:
+
+        * If the argument is NaN or an infinity, then the result is NaN.
+        * If the argument is zero, then the result is a zero with the same sign as the argument.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - an angle, in radians. 
+    Returns:
+        the tangent of the argument.
+
+asin
+
+public static double asin(double a)
+
+    Returns the arc sine of an angle, in the range of -pi/2 through pi/2. Special cases:
+
+        * If the argument is NaN or its absolute value is greater than 1, then the result is NaN.
+        * If the argument is zero, then the result is a zero with the same sign as the argument.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - the value whose arc sine is to be returned. 
+    Returns:
+        the arc sine of the argument.
+
+acos
+
+public static double acos(double a)
+
+    Returns the arc cosine of an angle, in the range of 0.0 through pi. Special case:
+
+        * If the argument is NaN or its absolute value is greater than 1, then the result is NaN.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - the value whose arc cosine is to be returned. 
+    Returns:
+        the arc cosine of the argument.
+
+atan
+
+public static double atan(double a)
+
+    Returns the arc tangent of an angle, in the range of -pi/2 through pi/2. Special cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is zero, then the result is a zero with the same sign as the argument.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - the value whose arc tangent is to be returned. 
+    Returns:
+        the arc tangent of the argument.
+
+toRadians
+
+public static double toRadians(double angdeg)
+
+    Converts an angle measured in degrees to an approximately equivalent angle measured in radians. The conversion from degrees to radians is generally inexact.
+
+    Parameters:
+        angdeg - an angle, in degrees 
+    Returns:
+        the measurement of the angle angdeg in radians.
+    Since:
+        1.2
+
+toDegrees
+
+public static double toDegrees(double angrad)
+
+    Converts an angle measured in radians to an approximately equivalent angle measured in degrees. The conversion from radians to degrees is generally inexact; users should not expect cos(toRadians(90.0)) to exactly equal 0.0.
+
+    Parameters:
+        angrad - an angle, in radians 
+    Returns:
+        the measurement of the angle angrad in degrees.
+    Since:
+        1.2
+
+exp
+
+public static double exp(double a)
+
+    Returns Euler's number e raised to the power of a double value. Special cases:
+
+        * If the argument is NaN, the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is negative infinity, then the result is positive zero.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - the exponent to raise e to. 
+    Returns:
+        the value ea, where e is the base of the natural logarithms.
+
+log
+
+public static double log(double a)
+
+    Returns the natural logarithm (base e) of a double value. Special cases:
+
+        * If the argument is NaN or less than zero, then the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is positive zero or negative zero, then the result is negative infinity.
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - a value 
+    Returns:
+        the value ln a, the natural logarithm of a.
+
+log10
+
+public static double log10(double a)
+
+    Returns the base 10 logarithm of a double value. Special cases:
+
+        * If the argument is NaN or less than zero, then the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is positive zero or negative zero, then the result is negative infinity.
+        * If the argument is equal to 10n for integer n, then the result is n. 
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - a value 
+    Returns:
+        the base 10 logarithm of a.
+    Since:
+        1.5
+
+sqrt
+
+public static double sqrt(double a)
+
+    Returns the correctly rounded positive square root of a double value. Special cases:
+
+        * If the argument is NaN or less than zero, then the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is positive zero or negative zero, then the result is the same as the argument.
+
+    Otherwise, the result is the double value closest to the true mathematical square root of the argument value.
+
+    Parameters:
+        a - a value. 
+    Returns:
+        the positive square root of a. If the argument is NaN or less than zero, the result is NaN.
+
+cbrt
+
+public static double cbrt(double a)
+
+    Returns the cube root of a double value. For positive finite x, cbrt(-x) == -cbrt(x); that is, the cube root of a negative value is the negative of the cube root of that value's magnitude. Special cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is infinite, then the result is an infinity with the same sign as the argument.
+        * If the argument is zero, then the result is a zero with the same sign as the argument. 
+
+    The computed result must be within 1 ulp of the exact result.
+
+    Parameters:
+        a - a value. 
+    Returns:
+        the cube root of a.
+    Since:
+        1.5
+
+IEEEremainder
+
+public static double IEEEremainder(double f1,
+                                   double f2)
+
+    Computes the remainder operation on two arguments as prescribed by the IEEE 754 standard. The remainder value is mathematically equal to f1 - f2 ª n, where n is the mathematical integer closest to the exact mathematical value of the quotient f1/f2, and if two mathematical integers are equally close to f1/f2, then n is the integer that is even. If the remainder is zero, its sign is the same as the sign of the first argument. Special cases:
+
+        * If either argument is NaN, or the first argument is infinite, or the second argument is positive zero or negative zero, then the result is NaN.
+        * If the first argument is finite and the second argument is infinite, then the result is the same as the first argument.
+
+    Parameters:
+        f1 - the dividend.
+        f2 - the divisor. 
+    Returns:
+        the remainder when f1 is divided by f2.
+
+ceil
+
+public static double ceil(double a)
+
+    Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases:
+
+        * If the argument value is already equal to a mathematical integer, then the result is the same as the argument.
+        * If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument.
+        * If the argument value is less than zero but greater than -1.0, then the result is negative zero.
+
+    Note that the value of Math.ceil(x) is exactly the value of -Math.floor(-x).
+
+    Parameters:
+        a - a value. 
+    Returns:
+        the smallest (closest to negative infinity) floating-point value that is greater than or equal to the argument and is equal to a mathematical integer.
+
+floor
+
+public static double floor(double a)
+
+    Returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer. Special cases:
+
+        * If the argument value is already equal to a mathematical integer, then the result is the same as the argument.
+        * If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument.
+
+    Parameters:
+        a - a value. 
+    Returns:
+        the largest (closest to positive infinity) floating-point value that less than or equal to the argument and is equal to a mathematical integer.
+
+rint
+
+public static double rint(double a)
+
+    Returns the double value that is closest in value to the argument and is equal to a mathematical integer. If two double values that are mathematical integers are equally close, the result is the integer value that is even. Special cases:
+
+        * If the argument value is already equal to a mathematical integer, then the result is the same as the argument.
+        * If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument.
+
+    Parameters:
+        a - a double value. 
+    Returns:
+        the closest floating-point value to a that is equal to a mathematical integer.
+
+atan2
+
+public static double atan2(double y,
+                           double x)
+
+    Converts rectangular coordinates (x, y) to polar (r, theta). This method computes the phase theta by computing an arc tangent of y/x in the range of -pi to pi. Special cases:
+
+        * If either argument is NaN, then the result is NaN.
+        * If the first argument is positive zero and the second argument is positive, or the first argument is positive and finite and the second argument is positive infinity, then the result is positive zero.
+        * If the first argument is negative zero and the second argument is positive, or the first argument is negative and finite and the second argument is positive infinity, then the result is negative zero.
+        * If the first argument is positive zero and the second argument is negative, or the first argument is positive and finite and the second argument is negative infinity, then the result is the double value closest to pi.
+        * If the first argument is negative zero and the second argument is negative, or the first argument is negative and finite and the second argument is negative infinity, then the result is the double value closest to -pi.
+        * If the first argument is positive and the second argument is positive zero or negative zero, or the first argument is positive infinity and the second argument is finite, then the result is the double value closest to pi/2.
+        * If the first argument is negative and the second argument is positive zero or negative zero, or the first argument is negative infinity and the second argument is finite, then the result is the double value closest to -pi/2.
+        * If both arguments are positive infinity, then the result is the double value closest to pi/4.
+        * If the first argument is positive infinity and the second argument is negative infinity, then the result is the double value closest to 3*pi/4.
+        * If the first argument is negative infinity and the second argument is positive infinity, then the result is the double value closest to -pi/4.
+        * If both arguments are negative infinity, then the result is the double value closest to -3*pi/4.
+
+    The computed result must be within 2 ulps of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        y - the ordinate coordinate
+        x - the abscissa coordinate 
+    Returns:
+        the theta component of the point (r, theta) in polar coordinates that corresponds to the point (x, y) in Cartesian coordinates.
+
+pow
+
+public static double pow(double a,
+                         double b)
+
+    Returns the value of the first argument raised to the power of the second argument. Special cases:
+
+        * If the second argument is positive or negative zero, then the result is 1.0.
+        * If the second argument is 1.0, then the result is the same as the first argument.
+        * If the second argument is NaN, then the result is NaN.
+        * If the first argument is NaN and the second argument is nonzero, then the result is NaN.
+        * If
+              o the absolute value of the first argument is greater than 1 and the second argument is positive infinity, or
+              o the absolute value of the first argument is less than 1 and the second argument is negative infinity, 
+          then the result is positive infinity.
+        * If
+              o the absolute value of the first argument is greater than 1 and the second argument is negative infinity, or
+              o the absolute value of the first argument is less than 1 and the second argument is positive infinity, 
+          then the result is positive zero.
+        * If the absolute value of the first argument equals 1 and the second argument is infinite, then the result is NaN.
+        * If
+              o the first argument is positive zero and the second argument is greater than zero, or
+              o the first argument is positive infinity and the second argument is less than zero, 
+          then the result is positive zero.
+        * If
+              o the first argument is positive zero and the second argument is less than zero, or
+              o the first argument is positive infinity and the second argument is greater than zero, 
+          then the result is positive infinity.
+        * If
+              o the first argument is negative zero and the second argument is greater than zero but not a finite odd integer, or
+              o the first argument is negative infinity and the second argument is less than zero but not a finite odd integer, 
+          then the result is positive zero.
+        * If
+              o the first argument is negative zero and the second argument is a positive finite odd integer, or
+              o the first argument is negative infinity and the second argument is a negative finite odd integer, 
+          then the result is negative zero.
+        * If
+              o the first argument is negative zero and the second argument is less than zero but not a finite odd integer, or
+              o the first argument is negative infinity and the second argument is greater than zero but not a finite odd integer, 
+          then the result is positive infinity.
+        * If
+              o the first argument is negative zero and the second argument is a negative finite odd integer, or
+              o the first argument is negative infinity and the second argument is a positive finite odd integer, 
+          then the result is negative infinity.
+        * If the first argument is finite and less than zero
+              o if the second argument is a finite even integer, the result is equal to the result of raising the absolute value of the first argument to the power of the second argument
+              o if the second argument is a finite odd integer, the result is equal to the negative of the result of raising the absolute value of the first argument to the power of the second argument
+              o if the second argument is finite and not an integer, then the result is NaN. 
+        * If both arguments are integers, then the result is exactly equal to the mathematical result of raising the first argument to the power of the second argument if that result can in fact be represented exactly as a double value.
+
+    (In the foregoing descriptions, a floating-point value is considered to be an integer if and only if it is finite and a fixed point of the method ceil or, equivalently, a fixed point of the method floor. A value is a fixed point of a one-argument method if and only if the result of applying the method to the value is equal to the value.)
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        a - the base.
+        b - the exponent. 
+    Returns:
+        the value ab.
+
+round
+
+public static int round(float a)
+
+    Returns the closest int to the argument. The result is rounded to an integer by adding 1/2, taking the floor of the result, and casting the result to type int. In other words, the result is equal to the value of the expression:
+
+    (int)Math.floor(a + 0.5f)
+
+    Special cases:
+
+        * If the argument is NaN, the result is 0.
+        * If the argument is negative infinity or any value less than or equal to the value of Integer.MIN_VALUE, the result is equal to the value of Integer.MIN_VALUE.
+        * If the argument is positive infinity or any value greater than or equal to the value of Integer.MAX_VALUE, the result is equal to the value of Integer.MAX_VALUE.
+
+    Parameters:
+        a - a floating-point value to be rounded to an integer. 
+    Returns:
+        the value of the argument rounded to the nearest int value.
+    See Also:
+        Integer.MAX_VALUE, Integer.MIN_VALUE
+
+round
+
+public static long round(double a)
+
+    Returns the closest long to the argument. The result is rounded to an integer by adding 1/2, taking the floor of the result, and casting the result to type long. In other words, the result is equal to the value of the expression:
+
+    (long)Math.floor(a + 0.5d)
+
+    Special cases:
+
+        * If the argument is NaN, the result is 0.
+        * If the argument is negative infinity or any value less than or equal to the value of Long.MIN_VALUE, the result is equal to the value of Long.MIN_VALUE.
+        * If the argument is positive infinity or any value greater than or equal to the value of Long.MAX_VALUE, the result is equal to the value of Long.MAX_VALUE.
+
+    Parameters:
+        a - a floating-point value to be rounded to a long. 
+    Returns:
+        the value of the argument rounded to the nearest long value.
+    See Also:
+        Long.MAX_VALUE, Long.MIN_VALUE
+
+random
+
+public static double random()
+
+    Returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0. Returned values are chosen pseudorandomly with (approximately) uniform distribution from that range.
+
+    When this method is first called, it creates a single new pseudorandom-number generator, exactly as if by the expression
+
+        new java.util.Random
+
+    This new pseudorandom-number generator is used thereafter for all calls to this method and is used nowhere else.
+
+    This method is properly synchronized to allow correct use by more than one thread. However, if many threads need to generate pseudorandom numbers at a great rate, it may reduce contention for each thread to have its own pseudorandom-number generator.
+
+    Returns:
+        a pseudorandom double greater than or equal to 0.0 and less than 1.0.
+    See Also:
+        Random.nextDouble()
+
+abs
+
+public static int abs(int a)
+
+    Returns the absolute value of an int value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned.
+
+    Note that if the argument is equal to the value of Integer.MIN_VALUE, the most negative representable int value, the result is that same value, which is negative.
+
+    Parameters:
+        a - the argument whose absolute value is to be determined 
+    Returns:
+        the absolute value of the argument.
+    See Also:
+        Integer.MIN_VALUE
+
+abs
+
+public static long abs(long a)
+
+    Returns the absolute value of a long value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned.
+
+    Note that if the argument is equal to the value of Long.MIN_VALUE, the most negative representable long value, the result is that same value, which is negative.
+
+    Parameters:
+        a - the argument whose absolute value is to be determined 
+    Returns:
+        the absolute value of the argument.
+    See Also:
+        Long.MIN_VALUE
+
+abs
+
+public static float abs(float a)
+
+    Returns the absolute value of a float value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned. Special cases:
+
+        * If the argument is positive zero or negative zero, the result is positive zero.
+        * If the argument is infinite, the result is positive infinity.
+        * If the argument is NaN, the result is NaN.
+
+    In other words, the result is the same as the value of the expression:
+
+    Float.intBitsToFloat(0x7fffffff & Float.floatToIntBits(a))
+
+    Parameters:
+        a - the argument whose absolute value is to be determined 
+    Returns:
+        the absolute value of the argument.
+
+abs
+
+public static double abs(double a)
+
+    Returns the absolute value of a double value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned. Special cases:
+
+        * If the argument is positive zero or negative zero, the result is positive zero.
+        * If the argument is infinite, the result is positive infinity.
+        * If the argument is NaN, the result is NaN.
+
+    In other words, the result is the same as the value of the expression:
+
+    Double.longBitsToDouble((Double.doubleToLongBits(a)<<1)>>>1)
+
+    Parameters:
+        a - the argument whose absolute value is to be determined 
+    Returns:
+        the absolute value of the argument.
+
+max
+
+public static int max(int a,
+                      int b)
+
+    Returns the greater of two int values. That is, the result is the argument closer to the value of Integer.MAX_VALUE. If the arguments have the same value, the result is that same value.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the larger of a and b.
+    See Also:
+        Long.MAX_VALUE
+
+max
+
+public static long max(long a,
+                       long b)
+
+    Returns the greater of two long values. That is, the result is the argument closer to the value of Long.MAX_VALUE. If the arguments have the same value, the result is that same value.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the larger of a and b.
+    See Also:
+        Long.MAX_VALUE
+
+max
+
+public static float max(float a,
+                        float b)
+
+    Returns the greater of two float values. That is, the result is the argument closer to positive infinity. If the arguments have the same value, the result is that same value. If either value is NaN, then the result is NaN. Unlike the numerical comparison operators, this method considers negative zero to be strictly smaller than positive zero. If one argument is positive zero and the other negative zero, the result is positive zero.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the larger of a and b.
+
+max
+
+public static double max(double a,
+                         double b)
+
+    Returns the greater of two double values. That is, the result is the argument closer to positive infinity. If the arguments have the same value, the result is that same value. If either value is NaN, then the result is NaN. Unlike the numerical comparison operators, this method considers negative zero to be strictly smaller than positive zero. If one argument is positive zero and the other negative zero, the result is positive zero.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the larger of a and b.
+
+min
+
+public static int min(int a,
+                      int b)
+
+    Returns the smaller of two int values. That is, the result the argument closer to the value of Integer.MIN_VALUE. If the arguments have the same value, the result is that same value.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the smaller of a and b.
+    See Also:
+        Long.MIN_VALUE
+
+min
+
+public static long min(long a,
+                       long b)
+
+    Returns the smaller of two long values. That is, the result is the argument closer to the value of Long.MIN_VALUE. If the arguments have the same value, the result is that same value.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the smaller of a and b.
+    See Also:
+        Long.MIN_VALUE
+
+min
+
+public static float min(float a,
+                        float b)
+
+    Returns the smaller of two float values. That is, the result is the value closer to negative infinity. If the arguments have the same value, the result is that same value. If either value is NaN, then the result is NaN. Unlike the numerical comparison operators, this method considers negative zero to be strictly smaller than positive zero. If one argument is positive zero and the other is negative zero, the result is negative zero.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the smaller of a and b.
+
+min
+
+public static double min(double a,
+                         double b)
+
+    Returns the smaller of two double values. That is, the result is the value closer to negative infinity. If the arguments have the same value, the result is that same value. If either value is NaN, then the result is NaN. Unlike the numerical comparison operators, this method considers negative zero to be strictly smaller than positive zero. If one argument is positive zero and the other is negative zero, the result is negative zero.
+
+    Parameters:
+        a - an argument.
+        b - another argument. 
+    Returns:
+        the smaller of a and b.
+
+ulp
+
+public static double ulp(double d)
+
+    Returns the size of an ulp of the argument. An ulp of a double value is the positive distance between this floating-point value and the double value next larger in magnitude. Note that for non-NaN x, ulp(-x) == ulp(x).
+
+    Special Cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is positive or negative infinity, then the result is positive infinity.
+        * If the argument is positive or negative zero, then the result is Double.MIN_VALUE.
+        * If the argument is ±Double.MAX_VALUE, then the result is equal to 2971. 
+
+    Parameters:
+        d - the floating-point value whose ulp is to be returned 
+    Returns:
+        the size of an ulp of the argument
+    Since:
+        1.5
+
+ulp
+
+public static float ulp(float f)
+
+    Returns the size of an ulp of the argument. An ulp of a float value is the positive distance between this floating-point value and the float value next larger in magnitude. Note that for non-NaN x, ulp(-x) == ulp(x).
+
+    Special Cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is positive or negative infinity, then the result is positive infinity.
+        * If the argument is positive or negative zero, then the result is Float.MIN_VALUE.
+        * If the argument is ±Float.MAX_VALUE, then the result is equal to 2104. 
+
+    Parameters:
+        f - the floating-point value whose ulp is to be returned 
+    Returns:
+        the size of an ulp of the argument
+    Since:
+        1.5
+
+signum
+
+public static double signum(double d)
+
+    Returns the signum function of the argument; zero if the argument is zero, 1.0 if the argument is greater than zero, -1.0 if the argument is less than zero.
+
+    Special Cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is positive zero or negative zero, then the result is the same as the argument. 
+
+    Parameters:
+        d - the floating-point value whose signum is to be returned 
+    Returns:
+        the signum function of the argument
+    Since:
+        1.5
+
+signum
+
+public static float signum(float f)
+
+    Returns the signum function of the argument; zero if the argument is zero, 1.0f if the argument is greater than zero, -1.0f if the argument is less than zero.
+
+    Special Cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is positive zero or negative zero, then the result is the same as the argument. 
+
+    Parameters:
+        f - the floating-point value whose signum is to be returned 
+    Returns:
+        the signum function of the argument
+    Since:
+        1.5
+
+sinh
+
+public static double sinh(double x)
+
+    Returns the hyperbolic sine of a double value. The hyperbolic sine of x is defined to be (ex - e-x)/2 where e is Euler's number.
+
+    Special cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is infinite, then the result is an infinity with the same sign as the argument.
+        * If the argument is zero, then the result is a zero with the same sign as the argument. 
+
+    The computed result must be within 2.5 ulps of the exact result.
+
+    Parameters:
+        x - The number whose hyperbolic sine is to be returned. 
+    Returns:
+        The hyperbolic sine of x.
+    Since:
+        1.5
+
+cosh
+
+public static double cosh(double x)
+
+    Returns the hyperbolic cosine of a double value. The hyperbolic cosine of x is defined to be (ex + e-x)/2 where e is Euler's number.
+
+    Special cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is infinite, then the result is positive infinity.
+        * If the argument is zero, then the result is 1.0. 
+
+    The computed result must be within 2.5 ulps of the exact result.
+
+    Parameters:
+        x - The number whose hyperbolic cosine is to be returned. 
+    Returns:
+        The hyperbolic cosine of x.
+    Since:
+        1.5
+
+tanh
+
+public static double tanh(double x)
+
+    Returns the hyperbolic tangent of a double value. The hyperbolic tangent of x is defined to be (ex - e-x)/(ex + e-x), in other words, sinh(x)/cosh(x). Note that the absolute value of the exact tanh is always less than 1.
+
+    Special cases:
+
+        * If the argument is NaN, then the result is NaN.
+        * If the argument is zero, then the result is a zero with the same sign as the argument.
+        * If the argument is positive infinity, then the result is +1.0.
+        * If the argument is negative infinity, then the result is -1.0. 
+
+    The computed result must be within 2.5 ulps of the exact result. The result of tanh for any finite input must have an absolute value less than or equal to 1. Note that once the exact result of tanh is within 1/2 of an ulp of the limit value of ±1, correctly signed ±1.0 should be returned.
+
+    Parameters:
+        x - The number whose hyperbolic tangent is to be returned. 
+    Returns:
+        The hyperbolic tangent of x.
+    Since:
+        1.5
+
+hypot
+
+public static double hypot(double x,
+                           double y)
+
+    Returns sqrt(x2 +y2) without intermediate overflow or underflow.
+
+    Special cases:
+
+        * If either argument is infinite, then the result is positive infinity.
+        * If either argument is NaN and neither argument is infinite, then the result is NaN. 
+
+    The computed result must be within 1 ulp of the exact result. If one parameter is held constant, the results must be semi-monotonic in the other parameter.
+
+    Parameters:
+        x - a value
+        y - a value 
+    Returns:
+        sqrt(x2 +y2) without intermediate overflow or underflow
+    Since:
+        1.5
+
+expm1
+
+public static double expm1(double x)
+
+    Returns ex -1. Note that for values of x near 0, the exact sum of expm1(x) + 1 is much closer to the true result of ex than exp(x).
+
+    Special cases:
+
+        * If the argument is NaN, the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is negative infinity, then the result is -1.0.
+        * If the argument is zero, then the result is a zero with the same sign as the argument. 
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic. The result of expm1 for any finite input must be greater than or equal to -1.0. Note that once the exact result of ex - 1 is within 1/2 ulp of the limit value -1, -1.0 should be returned.
+
+    Parameters:
+        x - the exponent to raise e to in the computation of ex -1. 
+    Returns:
+        the value ex - 1.
+
+log1p
+
+public static double log1p(double x)
+
+    Returns the natural logarithm of the sum of the argument and 1. Note that for small values x, the result of log1p(x) is much closer to the true result of ln(1 + x) than the floating-point evaluation of log(1.0+x).
+
+    Special cases:
+
+        * If the argument is NaN or less than -1, then the result is NaN.
+        * If the argument is positive infinity, then the result is positive infinity.
+        * If the argument is negative one, then the result is negative infinity.
+        * If the argument is zero, then the result is a zero with the same sign as the argument. 
+
+    The computed result must be within 1 ulp of the exact result. Results must be semi-monotonic.
+
+    Parameters:
+        x - a value 
+    Returns:
+        the value ln(x + 1), the natural log of x + 1
+
